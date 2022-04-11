@@ -1,0 +1,32 @@
+{
+    "name": "wicked-ones-esp",
+    "title": "[Translation] Wicked ones Spanish",
+    "description": "Traducción del sistema y compendios para Wicked ones",
+    "version": "1.0",
+    "minimumCoreVersion" : "0.8.6",
+    "compatibleCoreVersion":"0.8.9",
+    "author": "WallaceMcGregor",
+    "esmodules": [],
+    "scripts": [],
+    "styles": [],
+    "dependencies": [
+      {
+        "name": "wicked-ones",
+        "type": "system",
+        "version": "0.9.8"
+      }
+    ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "system": "wicked-ones",
+  "systemVersion": "0.9.8",
+  "url": "https://github.com/WallaceMcGregor/wicked-ones-esp",
+  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/wicked-ones-esp/main/module.json",
+  "download": "https://github.com/WallaceMcGregor/wicked-ones-esp/archive/main.zip"
+}
