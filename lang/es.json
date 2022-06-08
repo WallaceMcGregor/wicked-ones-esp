@@ -400,7 +400,7 @@
         "Critical": "<strong>¡Sí, y...</strong> ¡No sólo consigues lo que querías, sino que además obtienes algo más a cambio!",
         "Success": "<strong>¡Sí!</strong>  ¡Conseguiste lo que querías!",
         "Mixed": "<strong>Sí, pero…</strong> Consigues lo que querías, pero tiene un coste. Algunas consecuencias se interpondrán en tu camino. O puede que simplemente se obtenga un resultado peor.",
-        "Failure": "<strong>No, and…</strong> Las cosas salen tan mal como podrían salir en esta situación. No lo consigues y sufres una consecuencia."
+        "Failure": "<strong>No, y…</strong> Las cosas salen tan mal como podrían salir en esta situación. No lo consigues y sufres una consecuencia."
       },
 
       "BLOWBACK": {
