@@ -4,7 +4,7 @@
     "description": "Traducción del sistema y compendios para Wicked ones",
     "version": "1.0",
     "minimumCoreVersion" : "0.8.6",
-    "compatibleCoreVersion":"0.8.9",
+    "compatibleCoreVersion":"9",
     "author": "WallaceMcGregor",
     "esmodules": [],
     "scripts": [],
