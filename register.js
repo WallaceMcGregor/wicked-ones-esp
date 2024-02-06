@@ -17,21 +17,6 @@ Hooks.on('init', () => {
     },
   });
 
-  Babele.get().registerConverters({
-    "effectConverter": (effects, translations) => {
-      return effects.map(effect => {
-        if(translations) {
-          let translation = translations[effect._id];
-          if(translation) {
-            effect = mergeObject(effect, translation);
-          }
-        }
-        return effect;
-      });
-    }
-  });
-
-
   if (game.settings.get(MODULE_ID, 'autoRegisterBabel')) {
     autoRegisterBabel();
   }
