@@ -1,0 +1,56 @@
+{
+  "label": "Tipo de esbirro",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Thieves": {
+      "name": "Ladrones"
+    },
+    "Miners": {
+      "name": "Mineros"
+    },
+    "Trappers": {
+      "name": "Tramperos"
+    },
+    "Scouts": {
+      "name": "Exploradores"
+    },
+    "Witches": {
+      "name": "Brujos"
+    },
+    "Grunts": {
+      "name": "Matones"
+    },
+    "Envoys": {
+      "name": "Mensajeros"
+    },
+    "Raiders": {
+      "name": "Saqueadores"
+    },
+    "Acolytes": {
+      "name": "Acólitos"
+    },
+    "Priests": {
+      "name": "Sacerdotes"
+    },
+    "Tricksters": {
+      "name": "Estafadores"
+    },
+    "Workers": {
+      "name": "Obreros"
+    },
+    "Cutthroats": {
+      "name": "Asesinos"
+    },
+    "Builders": {
+      "name": "Ingenieros"
+    },
+    "Mages": {
+      "name": "Magos"
+    },
+    "Alchemists": {
+      "name": "Alquimistas"
+    }
+  }
+}
