@@ -1,0 +1,377 @@
+{
+  "label": "Generador de mazmorra",
+  "entries": {
+    "Dungeon Generator (Floors & Walls)": {
+      "name": "Generador de mazmorra (Suelos y paredes)",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Piedra fría y húmeda",
+        "2-2": "Barro y raíces",
+        "3-3": "Obsidiana cálida",
+        "4-4": "Ladrillos mohosos",
+        "5-5": "Tierra sucia y madera",
+        "6-6": "Hielo y roca"
+      }
+    },
+    "Dungeon Generator (Trap Mechanisms)": {
+      "name": "Generador de mazmorra (Mecanismo de la trampa)",
+      "description": "De la página 350.",
+      "results": {
+        "1-1": "Muro aplastante",
+        "2-2": "Dardos",
+        "3-3": "Pinchos",
+        "4-4": "Roca",
+        "5-5": "Sierra",
+        "6-6": "Péndulo",
+        "7-7": "Gas",
+        "8-8": "Calambre",
+        "9-9": "Mangual",
+        "10-10": "Barril explosivo",
+        "11-11": "Pozo",
+        "12-12": "Suelo con cuchillas"
+      }
+    },
+    "Dungeon Generator (Tier 2 Rooms)": {
+      "name": "Generador de mazmorra (Salas de nivel 2)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Puesto de guardia",
+        "2-2": "Guarida de esbirro",
+        "3-3": "Prisión",
+        "4-4": "Cámara de tortura",
+        "5-5": "Dos salas de nivel 1",
+        "6-6": "Descubrimiento (2d). Tira otra vez."
+      }
+    },
+    "Dungeon Generator (Smell)": {
+      "name": "Generador de mazmorra (Olor)",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Agua fétida",
+        "2-2": "Incienso abrumador",
+        "3-3": "Carne podrida",
+        "4-4": "Azufre",
+        "5-5": "Grasa y humo",
+        "6-6": "Nada"
+      }
+    },
+    "Dungeon Generator (Imp Traits)": {
+      "name": "Generador de mazmorra (Atributos de los duendes)",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Artero",
+        "2-2": "Cobarde",
+        "3-3": "Cruel",
+        "4-4": "Servicial",
+        "5-5": "Ruidoso",
+        "6-6": "Problemático",
+        "7-7": "Irritante",
+        "8-8": "Chalado",
+        "9-9": "Estúpido",
+        "10-10": "Arisco",
+        "11-11": "Incansable",
+        "12-12": "Vago"
+      }
+    },
+    "Dungeon Generator (Minion Upgrades)": {
+      "name": "Generador de mazmorra (Mejoras de los esbirros)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Adeptos",
+        "2-2": "Adiestrados",
+        "3-3": "Don de lenguas",
+        "4-4": "Equipados",
+        "5-5": "Mentalidad",
+        "6-6": "Prescindibles",
+        "7-7": "Trained",
+        "8-8": "Versátiles"
+      }
+    },
+    "Dungeon Generator (Minion Jobs)": {
+      "name": "Generador de mazmorra (Trabajos de los esbirros)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Acólitos",
+        "2-2": "Alquimistas",
+        "3-3": "Asesinos",
+        "4-4": "Brujos",
+        "5-5": "Bufones",
+        "6-6": "Conductores",
+        "7-7": "Estafadores",
+        "8-8": "Exploradores",
+        "9-9": "Guardaespaldas",
+        "10-10": "Ingenieros",
+        "11-11": "Ladrones",
+        "12-12": "Magos",
+        "13-13": "Matones",
+        "14-14": "Mensajeros",
+        "15-15": "Mineros",
+        "16-16": "Obreros",
+        "17-17": "Sacerdotes",
+        "18-18": "Saqueadores",
+        "19-19": "Tramperos",
+        "20-20": "Zapadores"
+      }
+    },
+    "Dungeon Generator (Lighting)": {
+      "name": "Generador de mazmorra (Iluminación)",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Antorchas en las paredes",
+        "2-2": "Ríos de lava",
+        "3-3": "Iluminación mágica",
+        "4-4": "Hongos luminosos",
+        "5-5": "Duendes con lámparas",
+        "6-6": "Luciérnagas gigantes"
+      }
+    },
+    "Dungeon Generator (Theme)": {
+      "name": "Generador de mazmorra (Temática)",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Enclave",
+        "2-2": "Forja",
+        "3-3": "Escondrijo",
+        "4-4": "Fortaleza",
+        "5-5": "Templo",
+        "6-6": "Sin función principal"
+      }
+    },
+    "Dungeon Generator (Minion Races)": {
+      "name": "Generador de mazmorra (Razas de los esbirros)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Osgo",
+        "2-2": "Demonio",
+        "3-3": "Goblin",
+        "4-4": "Gnoll",
+        "5-5": "Hobgoblin",
+        "6-6": "Kóbold",
+        "7-7": "Orco",
+        "8-8": "Sérpido"
+      }
+    },
+    "Dungeon Generator (Tier 3 Rooms)": {
+      "name": "Generador de mazmorra (Salas de nivel 3)",
+      "description": "De la página 349",
+      "results": {
+        "11-11": "Descubrimiento (1d)",
+        "12-12": "Academia",
+        "13-13": "Laboratorio de alquimia",
+        "14-14": "Antecámara",
+        "15-15": "Círculo de augurios",
+        "16-16": "Barracones",
+        "21-21": "Cuadra",
+        "22-22": "Crisol",
+        "23-23": "Dojo",
+        "24-24": "Dormitorio",
+        "25-25": "Fábrica",
+        "26-26": "Foso de combate",
+        "31-31": "Pira fúnebre",
+        "32-32": "Garito de juego",
+        "33-33": "Arsenal",
+        "34-34": "Invernadero",
+        "35-35": "Salón gremial",
+        "36-36": "Biblioteca",
+        "41-41": "Galería",
+        "42-42": "Pista de obstáculos",
+        "43-43": "Sala de penitencias",
+        "44-44": "Sala de planificación",
+        "45-45": "Laboratorio de pociones",
+        "46-46": "Relicario",
+        "51-51": "Nido",
+        "52-52": "Scriptorium",
+        "53-53": "Fuente de clarividencia",
+        "54-54": "Herrería",
+        "55-55": "Cubil de engendros",
+        "56-56": "Taberna",
+        "61-61": "Cámara de pruebas",
+        "62-62": "Hangar",
+        "63-63": "Tambores de guerra",
+        "64-64": "Sala de la guerra",
+        "65-65": "Taller",
+        "66-66": "Descubrimiento (3d) Tira otra vez."
+      }
+    },
+    "Dungeon Generator (Minion Impulses)": {
+      "name": "Generador de mazmorra (Impulsos de los esbirros)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Adictos",
+        "2-2": "Agresivos",
+        "3-3": "Codiciosos",
+        "4-4": "Desleales",
+        "5-5": "Impacientes",
+        "6-6": "Inestables",
+        "7-7": "Perezosos",
+        "8-8": "Supersticiosos"
+      }
+    },
+    "Dungeon Generator (Tier 1 Rooms)": {
+      "name": "Generador de mazmorra (Salas de nivel 1)",
+      "description": "De la página 349.",
+      "results": {
+        "1-1": "Conducto",
+        "2-2": "Fuente (menor)",
+        "3-3": "Sala de trofeos (menor)",
+        "4-4": "Letrinas (menor)",
+        "5-5": "Túnel largo",
+        "6-6": "Comedor (menor)",
+        "7-7": "Sauna (menor)",
+        "8-8": "Pasaje secreto",
+        "9-9": "Construcción",
+        "10-10": "Pozo (menor)",
+        "11-11": "Ventana",
+        "12-12": "Descubrimiento (1d). Tira otra vez."
+      }
+    },
+    "Dungeon Generator (Door Materials)": {
+      "name": "Generador de mazmorra (Material de la puerta)",
+      "description": "De la página 350.",
+      "results": {
+        "1-1": "Barrotes",
+        "2-2": "Hueso",
+        "3-3": "Mecánica",
+        "4-4": "Cristal",
+        "5-5": "Gelatina",
+        "6-6": "Cuero",
+        "7-7": "Hielo",
+        "8-8": "Hierro",
+        "9-9": "Campo mágico",
+        "10-10": "Raíces",
+        "11-11": "Piedra",
+        "12-12": "Madera"
+      }
+    },
+    "Dungeon Generator (Creatures)": {
+      "name": "Generador de mazmorra (Criatura)",
+      "description": "De la página 350. (puede ser una sola criatura, un grupo o una horda)",
+      "results": {
+        "11-11": "Araña gigante",
+        "12-12": "Bandada de murciélagos",
+        "13-13": "Serpiente gigante",
+        "14-14": "Esqueleto",
+        "15-15": "Fantasma",
+        "16-16": "Sombra",
+        "21-21": "Cubo gelatinoso",
+        "22-22": "Escorpión gigante",
+        "23-23": "Rata gigante",
+        "24-24": "Basilisco",
+        "25-25": "Zombi",
+        "26-26": "Gárgola",
+        "31-31": "Mímico",
+        "32-32": "Elemental de fuego",
+        "33-33": "Elemental de agua",
+        "34-34": "Elemental de tierra",
+        "35-35": "Elemental de aire",
+        "36-36": "Trol de las cavernas",
+        "41-41": "Necrófago",
+        "42-42": "Serpiente de lava",
+        "43-43": "Monstruo de barro",
+        "44-44": "Guerrero mecánico",
+        "45-45": "Monstruo oxidante",
+        "46-46": "Ciempiés gigante",
+        "51-51": "Ettercap",
+        "52-52": "Babaza",
+        "53-53": "Micónido",
+        "54-54": "Minotauro",
+        "55-55": "Mantoscuro",
+        "56-56": "Grick",
+        "61-61": "Reptador carroñero",
+        "62-62": "Huargo",
+        "63-63": "Estirge",
+        "64-64": "Quásit",
+        "65-65": "Limo",
+        "66-66": "Gorgona"
+      }
+    },
+    "Dungeon Generator (Room Traits)": {
+      "name": "Generador de mazmorra (Rasgo de la sala )",
+      "description": "De la página 348.",
+      "results": {
+        "1-1": "Luminosa",
+        "2-2": "Abarrotada",
+        "3-3": "Fría",
+        "4-4": "Confusa",
+        "5-5": "Derruida",
+        "6-6": "Húmeda",
+        "7-7": "Mal iluminada",
+        "8-8": "Con eco",
+        "9-9": "Inundada",
+        "10-10": "Calurosa",
+        "11-11": "Infestada",
+        "12-12": "Con vegetación",
+        "13-13": "Ruidosa",
+        "14-14": "Silenciosa",
+        "15-15": "Cambiante",
+        "16-16": "Silenciosa",
+        "17-17": "Inclinada",
+        "18-18": "Apestosa",
+        "19-19": "Escalofriante",
+        "20-20": "Ventosa"
+      }
+    },
+    "Dungeon Generator (Creature Traits)": {
+      "name": "Generador de mazmorra (Características de las criaturas)",
+      "description": "De la página 350. (dos por criatura)",
+      "results": {
+        "1-1": "Astuta",
+        "2-2": "Corrupta",
+        "3-3": "Corrosiva",
+        "4-4": "Infecciosa",
+        "5-5": "Incorpórea",
+        "6-6": "Ardiente",
+        "7-7": "Heladora",
+        "8-8": "Mágica",
+        "9-9": "Viscosa",
+        "10-10": "Sigilosa",
+        "11-11": "Fuerte",
+        "12-12": "Horda",
+        "13-13": "Terrorífica",
+        "14-14": "Incansable",
+        "15-15": "Venenosa",
+        "16-16": "Ácida",
+        "17-17": "Asustadiza",
+        "18-18": "Mecánica",
+        "19-19": "Ruidosa",
+        "20-20": "Telepática"
+      }
+    },
+    "Dungeon Generator (Lock Mechanism)": {
+      "name": "Generador de mazmorra (Mecanismo de cierre)",
+      "description": "De la página 350.",
+      "results": {
+        "1-1": "Arcano",
+        "2-2": "Barra",
+        "3-3": "Candado",
+        "4-4": "Cerradura de aro",
+        "5-5": "Cerrojo",
+        "6-6": "Contraseña",
+        "7-7": "Muescas",
+        "8-8": "Objeto pesado",
+        "9-9": "Placa de presión",
+        "10-10": "Polea",
+        "11-11": "Rompecabezas",
+        "12-12": "Temporizador"
+      }
+    },
+    "Dungeon Generator (Trap Triggers)": {
+      "name": "Generador de mazmorra (Detonador de la trampa)",
+      "description": "De la página 350.",
+      "results": {
+        "1-1": "Placa de presión",
+        "2-2": "Cordel",
+        "3-3": "Mágica",
+        "4-4": "Detección",
+        "5-5": "Ilusión",
+        "6-6": "Camuflaje",
+        "7-7": "Sonido",
+        "8-8": "Retirar un objeto",
+        "9-9": "Puerta falsa",
+        "10-10": "Centinela",
+        "11-11": "Puzle fallido",
+        "12-12": "Palanca falsa"
+      }
+    }
+  }
+}
