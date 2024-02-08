@@ -1,0 +1,144 @@
+{
+  "label": "Aventureros",
+  "mapping": {
+    "passive": "system.passive"
+  },
+  "entries": {
+    "Lancer": {
+      "name": "Lancero",
+      "passive": "Destaca a la hora de mantener a raya a los enemigos."
+    },
+    "Chaos Mage": {
+      "name": "Mago del caos",
+      "passive": "Conjura hechizos al azar cuando le atacan."
+    },
+    "Weaponsmith": {
+      "name": "Armero",
+      "passive": "Siempre tiene la mejor arma para la tarea."
+    },
+    "Death Knight": {
+      "name": "Caballero de la muerte",
+      "passive": "Se cura cuando alguien muere a su alrededor."
+    },
+    "Buccaneer": {
+      "name": "Bucanero",
+      "passive": "Es casi imposible inmovilizarle."
+    },
+    "Inquisitor": {
+      "name": "Inquisidor",
+      "passive": "Destaca a la hora de detectar mentiras y trucos."
+    },
+    "Aristocrat": {
+      "name": "Aristócrata",
+      "passive": "Destaca en combate uno contra uno."
+    },
+    "Bard": {
+      "name": "Bardo",
+      "passive": "Hace que todos los aliados cercanos actúen mejor."
+    },
+    "Assassin": {
+      "name": "Asesino",
+      "passive": "Siempre inicia una escena escondido."
+    },
+    "Templar": {
+      "name": "Templario",
+      "passive": "No se le puede desviar de su camino."
+    },
+    "Knight": {
+      "name": "Caballero",
+      "passive": "Es casi invulnerable ante el daño físico."
+    },
+    "Ranger": {
+      "name": "Guardabosque",
+      "passive": "Tiene un oso como fiel compañero."
+    },
+    "Druid": {
+      "name": "Druida",
+      "passive": "Puede convertirse en cualquier animal."
+    },
+    "Academic": {
+      "name": "Sabio",
+      "passive": "Destaca a la hora de orientarse dentro de la mazmorra."
+    },
+    "Eldritch Warrior": {
+      "name": "Guerrero arcano",
+      "passive": "Puede invocar una poderosa espada a su antojo."
+    },
+    "Illusionist": {
+      "name": "Ilusionista",
+      "passive": "Reacciona a los ataques y a las sorpresas con ilusiones."
+    },
+    "Shadowdancer": {
+      "name": "Bailarín sombrío",
+      "passive": "Puede teletransportarse entre las sombras."
+    },
+    "Centurion": {
+      "name": "Centurión",
+      "passive": "Es más poderoso cuando está herido."
+    },
+    "Spellbow": {
+      "name": "Arquero arcano",
+      "passive": "Imbuye cada una de sus flechas con un efecto elemental."
+    },
+    "Alchemist": {
+      "name": "Alquimista",
+      "passive": "Puede utilizar cualquier brebaje de nivel 1 o 2 de la página 121."
+    },
+    "Slinger": {
+      "name": "Hondero",
+      "passive": "Se le da bien enfrentarse a cualquiera más grande que él."
+    },
+    "Barbarian": {
+      "name": "Bárbaro",
+      "passive": "Sigue luchando cuando debería estar muerto."
+    },
+    "Hireling 1": {
+      "name": "Allegado 1",
+      "passive": ""
+    },
+    "Hireling 2": {
+      "name": "Allegado 2",
+      "passive": ""
+    },
+    "Hireling 3": {
+      "name": "Allegado 3",
+      "passive": ""
+    },
+    "Hireling 4": {
+      "name": "Allegado 4",
+      "passive": ""
+    },
+    "Cleric": {
+      "name": "Clérigo",
+      "passive": "Cura a un aliado cuando haya un momento de respiro."
+    },
+    "Monk": {
+      "name": "Monje",
+      "passive": "Puede correr por las paredes y sobre el agua."
+    },
+    "Occult Slayer": {
+      "name": "Asesino sagrado",
+      "passive": "Tiene un sexto sentido para el peligro."
+    },
+    "Defender": {
+      "name": "Guardián",
+      "passive": "Comparte su poderosa defensa con sus aliados."
+    },
+    "Scout": {
+      "name": "Explorador",
+      "passive": "Experto en la detección de trampas y peligros."
+    },
+    "Mage Hunter": {
+      "name": "Cazabrujas",
+      "passive": "Es casi inmune a la magia."
+    },
+    "Wildling": {
+      "name": "Salvaje",
+      "passive": "Puede moverse sin problemas por terreno difícil."
+    },
+    "Amazon": {
+      "name": "Amazona",
+      "passive": "Tiene mucha determinación y una voluntad de hierro."
+    }
+  }
+}
