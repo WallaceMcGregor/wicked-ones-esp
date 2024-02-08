@@ -1,0 +1,20 @@
+{
+  "label": "Grandes invasiones",
+  "entries": {
+    "Example Invasion Tier4": {
+      "name": "Invasión de ejemplo de nivel 4"
+    },
+    "Example Invasion Tier2": {
+      "name": "Invasión de ejemplo de nivel 2"
+    },
+    "Example Invasion Tier0": {
+      "name": "Invasión de ejemplo de nivel 0"
+    },
+    "Example Invasion Tier3": {
+      "name": "Invasión de ejemplo de nivel 3"
+    },
+    "Example Invasion Tier1": {
+      "name": "Invasión de ejemplo de nivel 1"
+    }
+  }
+}
