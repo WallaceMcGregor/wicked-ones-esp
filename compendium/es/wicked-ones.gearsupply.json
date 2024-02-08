@@ -1,0 +1,40 @@
+{
+  "label": "Equipo y Suministros",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "New Supply 4": {
+      "name": "Nuevo suministro 4",
+      "description": ""
+    },
+    "New Gear 2": {
+      "name": "Nuevo equipo 2",
+      "description": ""
+    },
+    "New Supply 1": {
+      "name": "Nuevo suministro 1",
+      "description": ""
+    },
+    "New Gear 1": {
+      "name": "Nuevo equipo 1",
+      "description": ""
+    },
+    "New Gear 3": {
+      "name": "Nuevo equipo 3",
+      "description": ""
+    },
+    "New Supply 3": {
+      "name": "Nuevo suministro 3",
+      "description": ""
+    },
+    "New Gear 4": {
+      "name": "Nuevo equipo 4",
+      "description": ""
+    },
+    "New Supply 2": {
+      "name": "Nuevo suministro 2",
+      "description": ""
+    }
+  }
+}
