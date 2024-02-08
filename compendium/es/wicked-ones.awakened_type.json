@@ -1,0 +1,40 @@
+{
+  "label": "Tipos de Despertados",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Preserved": {
+      "name": "Conservado",
+      "description": ""
+    },
+    "Rotten": {
+      "name": "Putrefacto",
+      "description": ""
+    },
+    "Elemental": {
+      "name": "Elemental",
+      "description": ""
+    },
+    "Demonic": {
+      "name": "Demoníaco",
+      "description": ""
+    },
+    "Otherworldy": {
+      "name": "Cósmico",
+      "description": ""
+    },
+    "Skeletal": {
+      "name": "Esquelético",
+      "description": ""
+    },
+    "Fungal": {
+      "name": "Fúngico",
+      "description": ""
+    },
+    "Amalgam": {
+      "name": "Amasijo",
+      "description": ""
+    }
+  }
+}
