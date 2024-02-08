@@ -1,0 +1,20 @@
+{
+  "label": "Tipos de Auróvoro",
+  "entries": {
+    "Shadow - Crystal": {
+      "name": "Sombra - Cristal"
+    },
+    "Fire - Ice": {
+      "name": "Fuego - Hielo"
+    },
+    "Water -Earth": {
+      "name": "Agua -Tierra"
+    },
+    "Metal - Plant": {
+      "name": "Metal - Planta"
+    },
+    "Illusion - Mind": {
+      "name": "Ilusión - Mente"
+    }
+  }
+}
