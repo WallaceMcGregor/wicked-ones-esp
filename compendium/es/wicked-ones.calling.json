@@ -1,0 +1,84 @@
+{
+  "label": "Vocaciones",
+  "mapping": {
+    "description": "system.description",
+    "flashbackClues": "system.flashback_clues"
+  },
+  "entries": {
+    "Shaman": {
+      "name": "Chamán",
+      "description": "Brujos vengativos y terroríficos",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un chamán, como interactuar con animales o espíritus, preparar un brebaje salvaje o sembrar el terror."
+    },
+    "Lich": {
+      "name": "Lich",
+      "description": "Un nigromante aterrador y poderoso",
+      "flashbackClues": ""
+    },
+    "Defiler": {
+      "name": "Sacrílego",
+      "description": "Un artesano pútrido y perverso",
+      "flashbackClues": ""
+    },
+    "Brute": {
+      "name": "Bruto",
+      "description": "Luchadores poderosos e intimidantes",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un bruto, como torturar a un prisionero, amenazar con usar la violencia o conseguir el arma idónea."
+    },
+    "Conniver": {
+      "name": "Confabulador",
+      "description": "Genio controlador y manipulador",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un confabulador, como manipular a otros, establecer planes de contingencia o adquirir información."
+    },
+    "Crafter": {
+      "name": "Artesano",
+      "description": "Artífices curiosos e inteligentes",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un artesano, como sabotear estructuras, recolectar materiales o preparar un brebaje."
+    },
+    "Reaver": {
+      "name": "Destructor",
+      "description": "Una monstruosidad imbatible",
+      "flashbackClues": ""
+    },
+    "Hunter": {
+      "name": "Cazador",
+      "description": "Rastreadores tenaces y despiadados",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un cazador, como preparar una trampa, explorar un lugar o cazar en busca de comida."
+    },
+    "Abomination": {
+      "name": "Abominación",
+      "description": "Un metamorfo terrorífico",
+      "flashbackClues": ""
+    },
+    "Warlock": {
+      "name": "Hechicero",
+      "description": "Magos ambiciosos y temerarios",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un hechicero, como adquirir conocimientos arcanos, sellar pactos oscuros o crear objetos mágicos."
+    },
+    "Marauder": {
+      "name": "Bandido",
+      "description": "Guerreros astutos y valientes",
+      "flashbackClues": "You can flashback to things such as giving orders to minions, surveying a target’s strength, or disciplining subordinates."
+    },
+    "Revenant": {
+      "name": "Renacido",
+      "description": "Un heraldo de la ruina y la venganza",
+      "flashbackClues": ""
+    },
+    "Lurker": {
+      "name": "Acechador",
+      "description": "Una pesadilla en la oscuridad",
+      "flashbackClues": ""
+    },
+    "Shadow": {
+      "name": "Sombra",
+      "description": "Pícaros esquivos y sigilosos",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de una sombra, como robar algo valioso, mentir para crear una oportunidad o esconder objetos."
+    },
+    "Zealot": {
+      "name": "Fanático",
+      "description": "Creyentes fervorosos y místicos",
+      "flashbackClues": "En tus flashbacks, puedes recordar cualquier actividad típica de un fanático, como interrogar a los infieles, hacer sacrificios o dar órdenes a los seguidores."
+    }
+  }
+}
