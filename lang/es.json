@@ -732,13 +732,13 @@
       "Trick": "Truco",
       "HINT": {
         "CreaturePrompt": "Describe un monstruo carente de inteligencia y dos rasgos:",
-        "CreatureParagraph": "ardiente, astuta, corrosiva, corrupta, fuerte, incansable, incorpórea, heladora, horda, infecciosa, mágica, sigilosa, terrorífica, venenosa, viscosa",
+        "CreatureParagraph": "ardiente, astuta, corrosiva, corrupta, fuerte, incansable, incorpórea, heladora, horda, infecciosa, mágica, sigilosa, terrorífica, venenosa, viscosa.",
         "LockPrompt": "Describe el material del que está hecha la puerta y el mecanismo de cierre",
-        "LockParagraph1": "<strong>Materiales de la puerta</strong>: barrotes, campo mágico, cristal, hielo, hierro, hueso, madera, piedra, raíces",
-        "LockParagraph2": "<strong>Mecanismos de cierre</strong>: arcano, barra, candado, cerradura de aro, cerrojo, contraseña, muescas, objeto pesado, placa de presión, polea, rompecabezas, temporizador",
+        "LockParagraph1": "<strong>Materiales de la puerta</strong>: barrotes, campo mágico, cristal, hielo, hierro, hueso, madera, piedra, raíces.",
+        "LockParagraph2": "<strong>Mecanismos de cierre</strong>: arcano, barra, candado, cerradura de aro, cerrojo, contraseña, muescas, objeto pesado, placa de presión, polea, rompecabezas, temporizador.",
         "TrapPrompt": "Describir el mecanismo y su detonador",
-        "TrapParagraph1": "<strong>Mecanismo</strong>: muro aplastante, dardos, pinchos, fuego, roca, sierra, péndulo, gas, calambre, descarga eléctrica, mangual, barril explosivo, pozo, suelo con cuchillas",
-        "TrapParagraph2": "<strong>Detonador</strong>: placa de presión, cordel, detección mágica, ilusión o camuflaje, sonido, retirar un objeto, puerta falsa",
+        "TrapParagraph1": "<strong>Mecanismo</strong>: muro aplastante, dardos, pinchos, fuego, roca, sierra, péndulo, gas, calambre, descarga eléctrica, mangual, barril explosivo, pozo, suelo con cuchillas.",
+        "TrapParagraph2": "<strong>Detonador</strong>: placa de presión, cordel, detección mágica, ilusión o camuflaje, sonido, retirar un objeto, puerta falsa.",
         "TrickPrompt": "Describe una intención y su detonador.",
         "TrickParagraph": "Cada truco consiste en un método que debe describir cómo engaña a los aventureros, un detonador que describe cuándo se activa y una intención que describe lo qué ocurre cuando funciona."
       }
