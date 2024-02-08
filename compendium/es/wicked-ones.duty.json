@@ -1,0 +1,32 @@
+{
+  "label": "Labores",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "New Custom Duty": {
+      "name": "Nueva labor personalizada",
+      "description": ""
+    },
+    "New Creature Duty": {
+      "name": "Nueva labor de criatura",
+      "description": ""
+    },
+    "New Trap Duty": {
+      "name": "Nueva labor de trampa",
+      "description": ""
+    },
+    "New Lock Duty": {
+      "name": "Nueva labor de portón",
+      "description": ""
+    },
+    "New Room Duty": {
+      "name": "Nueva labor de sala",
+      "description": ""
+    },
+    "New Trick Duty": {
+      "name": "Nueva labor de truco",
+      "description": ""
+    }
+  }
+}
