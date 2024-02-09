@@ -1,0 +1,23 @@
+{
+  "label": "Proyectos",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "New Tier 3 Project": {
+      "name": "Nuevo proyecto de nivel 3"
+    },
+    "New Short-Term Project": {
+      "name": "Nuevo proyecto a corto plazo"
+    },
+    "New Long-Term Project": {
+      "name": "Nuevo proyecto a largo plazo"
+    },
+    "New Medium-Term Project": {
+      "name": "Nuevo proyecto a medio plazo"
+    },
+    "New Tier 2 Project": {
+      "name": "Nuevo proyecto de nivel 2"
+    }
+  }
+}
