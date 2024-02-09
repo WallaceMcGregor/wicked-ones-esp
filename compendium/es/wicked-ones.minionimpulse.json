@@ -1,0 +1,44 @@
+{
+  "label": "Impulsos de los esbirros",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Addicted": {
+      "name": "Adictos"
+    },
+    "Lazy": {
+      "name": "Perezosos"
+    },
+    "Impatient": {
+      "name": "Impacientes"
+    },
+    "Hunger": {
+      "name": "Hambre",
+      "description": "El impulso más claro para los no muertos, que ansían cerebros jugosos y son propensos a merendarse a los vivos. Tu PJ puede verse obligado a buscar un bocado delicioso o a comerse un cadáver en un mal momento, poniéndose en peligro a sí mismo o al objetivo de la incursión. ¿Sientes cómo te recorre el poder oscuro?"
+    },
+    "Aggressive": {
+      "name": "Agresivos"
+    },
+    "Disloyal": {
+      "name": "Desleales"
+    },
+    "Moody": {
+      "name": "Inestables"
+    },
+    "Torment": {
+      "name": "Atormentar",
+      "description": "Los monstruos no pueden evitarlo: atormentar a los humanos está en su naturaleza. Estos impulsos recompensan al jugador por actuar como un monstruo típico de una película de terror. Puedes dar a los humanos una oportunidad fugaz de escapar, revelar tu posición con un ruido aterrador o lanzarte de cabeza contra tu sonriente némesis, que empuña una escopeta y una motosierra."
+    },
+    "Reverie": {
+      "name": "Reminiscencia",
+      "description": "Ser un muerto viviente tiene sus ventajas, hasta que aparece uno de esos recordatorios de tu vida pasada. Estos impulsos revelan detalles sobre el pasado del PJ y ayudan a construir el mundo. Puede que te veas obligado a perder el control de tus esbirros o a perder tu parte en el plan de incursión al recordar tu oscuro pasado. Aprovecha esta oportunidad para explorar el mundo y ampliar la historia que tenéis en común."
+    },
+    "Superstitious": {
+      "name": "Supersticiosos"
+    },
+    "Greedy": {
+      "name": "Codiciosos"
+    }
+  }
+}
