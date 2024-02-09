@@ -1,0 +1,32 @@
+{
+  "label": "Juerga",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Craving": {
+      "name": "Antojos",
+      "description": "YTienes deseos intensos que necesitas aliviar. Comida, sexo, lujos.\n· Desarrollas una adicción y obtienes un segundo impulso oscuro.\n· No puedes apartarte de los brazos de tu amante y pierdes tu acción de descanso.\n· Robas un poco de oro del tesoro. Tenéis -1d en la próxima tirada de desastre."
+    },
+    "Violence": {
+      "name": "Violencia",
+      "description": "Sientes una gran pasión por las peleas, la tortura y hacer daño a otros.\n· Destrozas una de las salas de la mazmorra: este ciclo no se podrá usar.\n· Encuentras a un rival a tu altura y sufres una conmoción en Músculos.\n· Pierdes los estribos contra una criatura o un grupo de esbirros y los matas."
+    },
+    "Occult": {
+      "name": "Ocultismo",
+      "description": "No puedes evitar implicarte con fuerzas sobrenaturales y extrañas.\n· Estás maldito: resta -1d en tu próxima tirada nefasta.\n· Tus extraños experimentos provocan que tus ojos cambien de color.\n· Un mago poderoso se percata de tu presencia."
+    },
+    "Gambling": {
+      "name": "Juego",
+      "description": "Te encanta despilfarrar y apostar.\n· Contraes una deuda con una entidad peligrosa.\n· Le hiciste trampas a alguien, que aparecerá en una incursión para vengarse.\n· Pierdes una pieza útil de equipo en un juego de azar."
+    },
+    "Worship": {
+      "name": "Veneración",
+      "description": "Encuentras consuelo al adorar a tu dios oscuro.\n· No puedes rechazar la próxima orden de tu dios oscuro.\n· Tu dios se ha cansado de tu devoción y te provoca conmoción en Agallas.\n· Un enemigo de la fe se propone encontrarte y destruirte."
+    },
+    "Drinking": {
+      "name": "Bebida",
+      "description": "No puedes rechazar un buen trago.\n· Te tropiezas y rompes una trampa. Su nivel se reduce en un punto.\n· Te peleas con un amigo vil.\n· Sufres una conmoción en los Sesos al levantarte con resaca."
+    }
+  }
+}
