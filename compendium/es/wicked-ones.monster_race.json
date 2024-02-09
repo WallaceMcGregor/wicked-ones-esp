@@ -1,0 +1,59 @@
+{
+  "label": "Razas monstruosas",
+  "mapping": {
+    "description": "system.description",
+    "flashback": "system.flashback_clues"
+  },
+  "entries": {
+    "Orc": {
+      "name": "Orco",
+      "description": "Los orcos son criaturas directas y brutales. Son tercos e hipersensibles ante cualquier  desprecio de los demás, por nimio que sea. Suelen abordar los problemas con lo primero que se les venga a la mente. Normalmente, los orcos ni siquiera disfrutan de su propia compañía.",
+      "flashback": ""
+    },
+    "Goldmonger": {
+      "name": "Auróvoro",
+      "description": "Te mueve el ansia por el oro: es tu obsesión y, además, te permite crecer. Empiezas como una pequeña cría y vas creciendo junto a tu tesoro, convirtiéndote en una bestia terrorífica. Sin embargo, antes de llegar a eso, necesitas algunos «aliados» que te ayuden a acumular tu tesoro.",
+      "flashback": "En tus flashbacks, puedes recordar cómo dar órdenes a tus súbditos, aterrorizar los campos o darte un festín."
+    },
+    "Goblin": {
+      "name": "Goblin",
+      "description": "Los goblins son criaturas perversas de corta estatura. Tienen muy mal genio y no le caen bien a casi nadie, pero suelen quererse mucho a sí mismos. Son diligentes y decididos cuando trabajan en alguna tarea. Se enfadan con facilidad, pero se niegan a pelear en igualdad de condiciones.",
+      "flashback": ""
+    },
+    "Doomseeker": {
+      "name": "Perdición",
+      "description": "Eres un antiguo guardián de una mazmorra olvidada hace mucho tiempo, liberado por fin del pacto que te mantenía atado a ella. Eres una criatura precavida y sabes que necesitas rodearte de «aliados» para protegerte de la destrucción.",
+      "flashback": "En tus flashbacks, puedes recordar cómo montar una trampa, negociar con seres inferiores o preparar a tus esbirros para lo que se avecina."
+    },
+    "Slissik": {
+      "name": "Sérpido",
+      "description": "Los sérpidos son criaturas parecidas a las serpientes; suelen reaccionar a la defensiva ante cualquier sorpresa y sienten la necesidad imperiosa de vigilar a todo aquel que les rodea. Tienen una memoria horrible, lo que les lleva a exagerar sus historias con el fin de rellenar las lagunas.",
+      "flashback": ""
+    },
+    "Demon": {
+      "name": "Demonios",
+      "description": "Los demonios son engendros menores del infierno que se las han ingeniado para escapar al mundo de los mortales. Suelen disfrutar del caos, sobre todo de las mentiras, ante las que creen que los mortales reaccionan de forma ridícula. Como son inmortales, la muerte solo es para ellos como volver a casa.",
+      "flashback": ""
+    },
+    "Bugbear": {
+      "name": "Osgo",
+      "description": "Los osgos son criaturas enormes y obstinadas, propensos a los ataques de cólera y cuyo intelecto no es especialmente destacable. Suelen verse a sí mismos como grandes líderes y creen que siempre deben estar al mando. Les gusta seguir a otros a combates peligrosos, pero es poco probable que se jueguen el pellejo por ellos.",
+      "flashback": ""
+    },
+    "Braineater": {
+      "name": "Devoramentes",
+      "description": "Te atrae la deliciosa energía oculta en el cerebro de los seres inteligentes. La ansías y te embarcas en una búsqueda interminable de tu siguiente presa. Este hambre infinita puede incluso obligarte a aunar fuerzas con aquellos a los que, de otro modo, considerarías comida.",
+      "flashback": "En tus flashbacks, puedes recordar cómo jugar con un prisionero, encontrar cerebros débiles que masticar o implantar pensamientos."
+    },
+    "Facestealer": {
+      "name": "Robacaras",
+      "description": "Eres una criatura consagrada al engaño y la explotación, que adopta la forma de aquellos que le rodean para infiltrarse en tierras civilizadas. Sin embargo, te repudian por tus poderes y te persiguen por ello, así que lo mejor será que busques un lugar seguro donde descansar.",
+      "flashback": "En tus flashbacks, puedes recordar cómo robar una cara, hacer tareas que parecen cotidianas con la identidad de una de tus caras u ocultar tu rastro."
+    },
+    "Kobold": {
+      "name": "Kóbold",
+      "description": "Los kóbolds son criaturas pequeñas y ruidosas. Su aspecto es una mezcla entre roedor, perro y lagarto. Son hiperactivos y agresivos, pero les cuesta mantener su atención centrada en algo durante mucho tiempo seguido. Normalmente prefieren trabajar en grupo y rara vez muestran un instinto de supervivencia muy alto.",
+      "flashback": ""
+    }
+  }
+}
