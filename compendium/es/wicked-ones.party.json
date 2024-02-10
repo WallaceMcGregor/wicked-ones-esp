@@ -2,67 +2,13 @@
   "label": "Grupos de aventureros de ejemplo",
   "entries": {
     "Classic Party": {
-      "name": "Grupo clásico",
-      "items": {
-        "Assassin": {
-          "name": "Asesino",
-          "passive": "Siempre inicia una escena escondido."
-        },
-        "Barbarian": {
-          "name": "Bárbaro",
-          "passive": "Sigue luchando cuando debería estar muerto."
-        },
-        "Chaos Mage": {
-          "name": "Mago del caos",
-          "passive": "Conjura hechizos al azar cuando le atacan."
-        },
-        "Cleric": {
-          "name": "Clérigo",
-          "passive": "Cura a un aliado cuando haya un momento de respiro."
-        }
-      }
+      "name": "Grupo clásico"
     },
     "Deadly Party": {
-      "name": "Grupo letal",
-      "items": {
-        "Amazon": {
-          "name": "Amazona",
-          "passive": "Tiene mucha determinación y una voluntad de hierro."
-        },
-        "Druid": {
-          "name": "Druida",
-          "passive": "Puede convertirse en cualquier animal."
-        },
-        "Mage Hunter": {
-          "name": "Cazabrujas",
-          "passive": "Es casi inmune a la magia."
-        },
-        "Templar": {
-          "name": "Templario",
-          "passive": "No se le puede desviar de su camino."
-        }
-      }
+      "name": "Grupo letal"
     },
     "Low Level Party": {
-      "name": "Grupo de nivel bajo",
-      "items": {
-        "Scout": {
-          "name": "Explorador",
-          "passive": "Experto en la detección de trampas y peligros."
-        },
-        "Spellbow": {
-          "name": "Arquero arcano",
-          "passive": "Imbuye cada una de sus flechas con un efecto elemental."
-        },
-        "Swordsman": {
-          "name": "Espadachín",
-          "passive": ""
-        },
-        "Singer": {
-          "name": "Cantante",
-          "passive": "Motivador"
-        }
-      }
+      "name": "Grupo de nivel bajo"
     }
   }
 }
