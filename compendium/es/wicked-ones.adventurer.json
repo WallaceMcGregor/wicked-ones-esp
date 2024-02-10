@@ -33,17 +33,6 @@
       "negativeTraitCustom1": "Indeciso",
       "negativeTraitCustom2": ""
     },
-    "Infante": {
-      "name": "Infante",
-      "passive": "",
-      "customClass": "Monje",
-      "motivationCustom1": "",
-      "motivationCustom2": "",
-      "positiveTraitCustom1": "",
-      "positiveTraitCustom2": "",
-      "negativeTraitCustom1": "",
-      "negativeTraitCustom2": ""
-    },
     "Armero": {
       "name": "Armero",
       "passive": "Siempre tiene la mejor arma para la tarea.",
@@ -264,10 +253,43 @@
       "negativeTraitCustom1": "Lerdo",
       "negativeTraitCustom2": ""
     },
-    "Espadachín": {
-      "name": "Espadachín",
+    "Allegado 1": {
+      "name": "Allegado 1",
       "passive": "",
-      "customClass": "Monje",
+      "customClass": "Allegado 1",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Allegado 2": {
+      "name": "Allegado 2",
+      "passive": "",
+      "customClass": "Allegado 2",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Allegado 3": {
+      "name": "Allegado 3",
+      "passive": "",
+      "customClass": "Allegado 3",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Allegado 4": {
+      "name": "Allegado 4",
+      "passive": "",
+      "customClass": "Allegado 4",
       "motivationCustom1": "",
       "motivationCustom2": "",
       "positiveTraitCustom1": "",
@@ -308,17 +330,6 @@
       "negativeTraitCustom1": "Mentiroso",
       "negativeTraitCustom2": ""
     },
-    "Cocinero": {
-      "name": "Cocinero",
-      "passive": "",
-      "customClass": "Monje",
-      "motivationCustom1": "",
-      "motivationCustom2": "",
-      "positiveTraitCustom1": "",
-      "positiveTraitCustom2": "",
-      "negativeTraitCustom1": "",
-      "negativeTraitCustom2": ""
-    },
     "Guardián": {
       "name": "Guardián",
       "passive": "Comparte su poderosa defensa con sus aliados.",
@@ -350,17 +361,6 @@
       "positiveTraitCustom1": "Persistente",
       "positiveTraitCustom2": "",
       "negativeTraitCustom1": "Arrogante",
-      "negativeTraitCustom2": ""
-    },
-    "Escriba": {
-      "name": "Escriba",
-      "passive": "",
-      "customClass": "Monje",
-      "motivationCustom1": "",
-      "motivationCustom2": "",
-      "positiveTraitCustom1": "",
-      "positiveTraitCustom2": "",
-      "negativeTraitCustom1": "",
       "negativeTraitCustom2": ""
     },
     "Salvaje": {
