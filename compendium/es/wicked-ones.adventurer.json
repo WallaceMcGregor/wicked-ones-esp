@@ -1,144 +1,389 @@
 {
   "label": "Aventureros",
   "mapping": {
-    "passive": "system.passive"
+    "passive": "system.passive",
+    "customClass": "system.adventurer_class_custom",
+    "motivationCustom1": "system.motivation_1_custom",
+    "motivationCustom2": "system.motivation_2_custom",
+    "positiveTraitCustom1": "system.trait_pos_1_custom",
+    "positiveTraitCustom2": "system.trait_pos_2_custom",
+    "negativeTraitCustom1": "system.trait_neg_1_custom",
+    "negativeTraitCustom2": "system.trait_neg_2_custom"
   },
   "entries": {
-    "Lancer": {
+    "Lancero": {
       "name": "Lancero",
-      "passive": "Destaca a la hora de mantener a raya a los enemigos."
+      "passive": "Destaca a la hora de mantener a raya a los enemigos.",
+      "customClass": "Lancero",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Confiado",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Impaciente",
+      "negativeTraitCustom2": ""
     },
-    "Chaos Mage": {
+    "Mago del caos": {
       "name": "Mago del caos",
-      "passive": "Conjura hechizos al azar cuando le atacan."
+      "passive": "Conjura hechizos al azar cuando le atacan.",
+      "customClass": "Mago del caos",
+      "motivationCustom1": "Exploración",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Optimista",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Indeciso",
+      "negativeTraitCustom2": ""
     },
-    "Weaponsmith": {
+    "Infante": {
+      "name": "Infante",
+      "passive": "",
+      "customClass": "Monje",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Armero": {
       "name": "Armero",
-      "passive": "Siempre tiene la mejor arma para la tarea."
+      "passive": "Siempre tiene la mejor arma para la tarea.",
+      "customClass": "Armero",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Honestoo",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Death Knight": {
+    "Caballero de la muerte": {
       "name": "Caballero de la muerte",
-      "passive": "Se cura cuando alguien muere a su alrededor."
+      "passive": "Se cura cuando alguien muere a su alrededor.",
+      "customClass": "Caballero de la muerte",
+      "motivationCustom1": "Venganza",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Persistente",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Buccaneer": {
+    "Bucanero": {
       "name": "Bucanero",
-      "passive": "Es casi imposible inmovilizarle."
+      "passive": "Es casi imposible inmovilizarle.",
+      "customClass": "Bucanero",
+      "motivationCustom1": "Riquezas",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Generoso",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Inquisitor": {
+    "Inquisidor": {
       "name": "Inquisidor",
-      "passive": "Destaca a la hora de detectar mentiras y trucos."
+      "passive": "Destaca a la hora de detectar mentiras y trucos.",
+      "customClass": "Inquisidor",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Persistente",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Aristocrat": {
+    "Aristócrata": {
       "name": "Aristócrata",
-      "passive": "Destaca en combate uno contra uno."
+      "passive": "Destaca en combate uno contra uno.",
+      "customClass": "Aristócrata",
+      "motivationCustom1": "Reputación",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Confiado",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Bard": {
+    "Bardo": {
       "name": "Bardo",
-      "passive": "Hace que todos los aliados cercanos actúen mejor."
+      "passive": "Hace que todos los aliados cercanos actúen mejor.",
+      "customClass": "Bardo",
+      "motivationCustom1": "Riquezas",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Servicial",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Codicioso",
+      "negativeTraitCustom2": ""
     },
-    "Assassin": {
+    "Asesino": {
       "name": "Asesino",
-      "passive": "Siempre inicia una escena escondido."
+      "passive": "Siempre inicia una escena escondido.",
+      "customClass": "Asesino",
+      "motivationCustom1": "Riquezas",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Persistente",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Mentiroso",
+      "negativeTraitCustom2": ""
     },
-    "Templar": {
+    "Templario": {
       "name": "Templario",
-      "passive": "No se le puede desviar de su camino."
+      "passive": "No se le puede desviar de su camino.",
+      "customClass": "Templario",
+      "motivationCustom1": "Justicia",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Firme",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Knight": {
+    "Caballero": {
       "name": "Caballero",
-      "passive": "Es casi invulnerable ante el daño físico."
+      "passive": "Es casi invulnerable ante el daño físico.",
+      "customClass": "Caballero",
+      "motivationCustom1": "Reputación",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Honesto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Ranger": {
+    "Guardabosque": {
       "name": "Guardabosque",
-      "passive": "Tiene un oso como fiel compañero."
+      "passive": "Tiene un oso como fiel compañero.",
+      "customClass": "Guardabosque",
+      "motivationCustom1": "Exploración",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Astuto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Impaciente",
+      "negativeTraitCustom2": ""
     },
-    "Druid": {
+    "Druida": {
       "name": "Druida",
-      "passive": "Puede convertirse en cualquier animal."
+      "passive": "Puede convertirse en cualquier animal.",
+      "customClass": "Druida",
+      "motivationCustom1": "Venganza",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Honesto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Impaciente",
+      "negativeTraitCustom2": ""
     },
-    "Academic": {
+    "Sabio": {
       "name": "Sabio",
-      "passive": "Destaca a la hora de orientarse dentro de la mazmorra."
+      "passive": "Destaca a la hora de orientarse dentro de la mazmorra.",
+      "customClass": "Sabio",
+      "motivationCustom1": "Exploración",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Astuto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Codicioso",
+      "negativeTraitCustom2": ""
     },
-    "Eldritch Warrior": {
+    "Guerrero arcano": {
       "name": "Guerrero arcano",
-      "passive": "Puede invocar una poderosa espada a su antojo."
+      "passive": "Puede invocar una poderosa espada a su antojo.",
+      "customClass": "Guerrero arcano",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Optimista",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Illusionist": {
+    "Ilusionista": {
       "name": "Ilusionista",
-      "passive": "Reacciona a los ataques y a las sorpresas con ilusiones."
+      "passive": "Reacciona a los ataques y a las sorpresas con ilusiones.",
+      "customClass": "Ilusionista",
+      "motivationCustom1": "Emoción",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Servicial",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Indeciso",
+      "negativeTraitCustom2": ""
     },
-    "Shadowdancer": {
+    "Bailarín sombrío": {
       "name": "Bailarín sombrío",
-      "passive": "Puede teletransportarse entre las sombras."
+      "passive": "Puede teletransportarse entre las sombras.",
+      "customClass": "Bailarín sombrío",
+      "motivationCustom1": "Emoción",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Astuto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Impaciente",
+      "negativeTraitCustom2": ""
     },
-    "Centurion": {
+    "Centurión": {
       "name": "Centurión",
-      "passive": "Es más poderoso cuando está herido."
+      "passive": "Es más poderoso cuando está herido.",
+      "customClass": "Centurión",
+      "motivationCustom1": "Reputación",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Firme",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Spellbow": {
+    "Arquero arcano": {
       "name": "Arquero arcano",
-      "passive": "Imbuye cada una de sus flechas con un efecto elemental."
+      "passive": "Imbuye cada una de sus flechas con un efecto elemental.",
+      "customClass": "Arquero arcano",
+      "motivationCustom1": "Emoción",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Astuto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Codicioso",
+      "negativeTraitCustom2": ""
     },
-    "Alchemist": {
+    "Alquimista": {
       "name": "Alquimista",
-      "passive": "Puede utilizar cualquier brebaje de nivel 1 o 2 de la página 121."
+      "passive": "Puede utilizar cualquier brebaje de nivel 1 o 2 de la página 121.",
+      "customClass": "Alquimista",
+      "motivationCustom1": "Emoción",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Astuto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Impaciente",
+      "negativeTraitCustom2": ""
     },
-    "Slinger": {
+    "Hondero": {
       "name": "Hondero",
-      "passive": "Se le da bien enfrentarse a cualquiera más grande que él."
+      "passive": "Se le da bien enfrentarse a cualquiera más grande que él.",
+      "customClass": "Hondero",
+      "motivationCustom1": "Justicia",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Optimista",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Indeciso",
+      "negativeTraitCustom2": ""
     },
-    "Barbarian": {
+    "Bárbaro": {
       "name": "Bárbaro",
-      "passive": "Sigue luchando cuando debería estar muerto."
+      "passive": "Sigue luchando cuando debería estar muerto.",
+      "customClass": "Bárbaro",
+      "motivationCustom1": "Justicia",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Confiado",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Lerdo",
+      "negativeTraitCustom2": ""
     },
-    "Hireling 1": {
-      "name": "Allegado 1",
-      "passive": ""
+    "Espadachín": {
+      "name": "Espadachín",
+      "passive": "",
+      "customClass": "Monje",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
     },
-    "Hireling 2": {
-      "name": "Allegado 2",
-      "passive": ""
-    },
-    "Hireling 3": {
-      "name": "Allegado 3",
-      "passive": ""
-    },
-    "Hireling 4": {
-      "name": "Allegado 4",
-      "passive": ""
-    },
-    "Cleric": {
+    "Clérigo": {
       "name": "Clérigo",
-      "passive": "Cura a un aliado cuando haya un momento de respiro."
+      "passive": "Cura a un aliado cuando haya un momento de respiro.",
+      "customClass": "Clérigo",
+      "motivationCustom1": "Justicia",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Generoso",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Monk": {
+    "Monje": {
       "name": "Monje",
-      "passive": "Puede correr por las paredes y sobre el agua."
+      "passive": "Puede correr por las paredes y sobre el agua.",
+      "customClass": "Monje",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Firme",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Occult Slayer": {
+    "Asesino sagrado": {
       "name": "Asesino sagrado",
-      "passive": "Tiene un sexto sentido para el peligro."
+      "passive": "Tiene un sexto sentido para el peligro.",
+      "customClass": "Asesino sagrado",
+      "motivationCustom1": "Justicia",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Persistente",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Mentiroso",
+      "negativeTraitCustom2": ""
     },
-    "Defender": {
+    "Cocinero": {
+      "name": "Cocinero",
+      "passive": "",
+      "customClass": "Monje",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Guardián": {
       "name": "Guardián",
-      "passive": "Comparte su poderosa defensa con sus aliados."
+      "passive": "Comparte su poderosa defensa con sus aliados.",
+      "customClass": "Guardián",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Firme",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Indeciso",
+      "negativeTraitCustom2": ""
     },
-    "Scout": {
+    "Explorador": {
       "name": "Explorador",
-      "passive": "Experto en la detección de trampas y peligros."
+      "passive": "Experto en la detección de trampas y peligros.",
+      "customClass": "Explorador",
+      "motivationCustom1": "Exploración",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Servicial",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     },
-    "Mage Hunter": {
+    "Cazabrujas": {
       "name": "Cazabrujas",
-      "passive": "Es casi inmune a la magia."
+      "passive": "Es casi inmune a la magia.",
+      "customClass": "Cazabrujas",
+      "motivationCustom1": "Venganza",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Persistente",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Arrogante",
+      "negativeTraitCustom2": ""
     },
-    "Wildling": {
+    "Escriba": {
+      "name": "Escriba",
+      "passive": "",
+      "customClass": "Monje",
+      "motivationCustom1": "",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "",
+      "negativeTraitCustom2": ""
+    },
+    "Salvaje": {
       "name": "Salvaje",
-      "passive": "Puede moverse sin problemas por terreno difícil."
+      "passive": "Puede moverse sin problemas por terreno difícil.",
+      "customClass": "Salvaje",
+      "motivationCustom1": "Emoción",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Generoso",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Lerdo",
+      "negativeTraitCustom2": ""
     },
-    "Amazon": {
+    "Amazona": {
       "name": "Amazona",
-      "passive": "Tiene mucha determinación y una voluntad de hierro."
+      "passive": "Tiene mucha determinación y una voluntad de hierro.",
+      "customClass": "Amazona",
+      "motivationCustom1": "Desafíos",
+      "motivationCustom2": "",
+      "positiveTraitCustom1": "Honesto",
+      "positiveTraitCustom2": "",
+      "negativeTraitCustom1": "Terco",
+      "negativeTraitCustom2": ""
     }
   }
 }
