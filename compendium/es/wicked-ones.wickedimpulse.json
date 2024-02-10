@@ -1,0 +1,52 @@
+{
+  "label": "Impulsos oscuros",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Deranged": {
+      "name": "Chiflado",
+      "description": "Disfrutas con las cosas más extrañas e inquietantes. No te importa o no te das cuenta de cómo tu enajenación afecta a los que te rodean. Eres imprevisible, con una tendencia a probar cosas inusuales solo por ver qué pasa. Puede que oigas voces que te empujen a realizar estas acciones o tal vez solo se trate de una curiosidad extrema."
+    },
+    "Obsessed": {
+      "name": "Obseso",
+      "description": "Eres propenso a la fijación. En cuanto se te mete una idea en la cabeza, te es imposible sacarla de ahí. Es posible que haya algún objeto o concepto que te llame la atención desde hace tiempo, o que esto se manifieste como una predilección por los comportamientos obsesivos. Sea como sea, no puedes ignorarlo."
+    },
+    "Reckless": {
+      "name": "Temerario",
+      "description": "Lo último en lo que piensas es en las consecuencias. Eres impaciente, impulsivo e imprudente. Sigues la ruta más rápida hacia tus objetivos, sin importar lo que haya en el camino. Te preocupa muy poco no solo tu propia seguridad, sino también la de los que te rodean."
+    },
+    "Torment": {
+      "name": "Atormentar",
+      "description": "Los monstruos no pueden evitarlo: atormentar a los humanos está en su naturaleza. Estos impulsos recompensan al jugador por actuar como un monstruo típico de una película de terror. Puedes dar a los humanos una oportunidad fugaz de escapar, revelar tu posición con un ruido aterrador o lanzarte de cabeza contra tu sonriente némesis, que empuña una escopeta y una motosierra."
+    },
+    "Reverie": {
+      "name": "Reminiscencia",
+      "description": "Ser un muerto viviente tiene sus ventajas, hasta que aparece uno de esos recordatorios de tu vida pasada. Estos impulsos revelan detalles sobre el pasado del PJ y ayudan a construir el mundo. Puede que te veas obligado a perder el control de tus esbirros o a perder tu parte en el plan de incursión al recordar tu oscuro pasado. Aprovecha esta oportunidad para explorar el mundo y ampliar la historia que tenéis en común."
+    },
+    "Paranoid": {
+      "name": "Paranoico",
+      "description": "Tienes la constante sensación de que tu vida, tus pertenencias o tus objetivos corren peligro. Nunca te sientes a salvo y encuentras todo tipo de excusas para temer lo peor. Crees que algo o alguien va a por ti. Tu paranoia puede ser una actitud general o enfocarse sobre algo en concreto. Puede que tengas un miedo irracional hacia algo de apariencia mundana o una terrible aversión a algo relativamente peligroso."
+    },
+    "Bigmouth": {
+      "name": "Bocazas",
+      "description": "No puedes mantener la boca cerrada, aunque eso implique ser insoportablemente grosero, un horrendo fanfarrón, un mentiroso irredento o un chivato compulsivo. Te encanta que la gente te oiga hablar, sin importar si te perjudica a ti, a ellos o a tus aliados."
+    },
+    "Vengeful": {
+      "name": "Rencoroso",
+      "description": "Nunca olvidas a quien te la jugado y jamás dejas que un desaire quede impune. Que el daño sea real o solo aparente importa poco: sabes que son responsables y que pagarán por ello. La crudeza de tu venganza puede ir desde lo más trivial hasta lo más extremo."
+    },
+    "Fickle": {
+      "name": "Despistado",
+      "description": "Te distraes fácilmente y no consigues concentrarte en una tarea. Cuando algo te llama la atención, no puedes evitar volver a ello una y otra vez. Es posible que cambies de opinión a mitad de un plan o incluso antes de dar el primer paso. Tu actitud hacia los demás es tan cambiante como tus acciones."
+    },
+    "Cruel": {
+      "name": "Sádico",
+      "description": "Disfrutas con el dolor y la miseria de los demás, y haces lo que sea para que lo experimenten. No te basta con matar, pues eso suele acabar con la diversión. ¿La cara de alguien que ve morir a sus seres queridos? Es maravilloso. El dolor de los demás te ayuda a justificar tu miserable existencia."
+    },
+    "Hunger": {
+      "name": "Hambre",
+      "description": "El impulso más claro para los no muertos, que ansían cerebros jugosos y son propensos a merendarse a los vivos. Tu PJ puede verse obligado a buscar un bocado delicioso o a comerse un cadáver en un mal momento, poniéndose en peligro a sí mismo o al objetivo de la incursión. ¿Sientes cómo te recorre el poder oscuro?"
+    }
+  }
+}
