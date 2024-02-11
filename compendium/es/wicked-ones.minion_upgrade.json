@@ -103,7 +103,7 @@
       "checbox2": ""
     },
     "Adept": {
-      "name": "Adept",
+      "name": "Adeptos",
       "description": "Una vez por ciclo de juego, el grupo de esbirros puede lanzar un hechizo de nivel 2. Tiran con -1d, como es normal, pero no sufren estrés.",
       "checkbox1": "Utilizado",
       "checbox2": ""
