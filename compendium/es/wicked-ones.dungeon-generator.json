@@ -1,8 +1,8 @@
 {
-  "label": "Generador de mazmorra",
+  "label": "Generador de mazmorras",
   "entries": {
     "Dungeon Generator (Floors & Walls)": {
-      "name": "Generador de mazmorra (Suelos y paredes)",
+      "name": "Suelos y paredes",
       "description": "De la página 348.",
       "results": {
         "1-1": "Piedra fría y húmeda",
@@ -14,7 +14,7 @@
       }
     },
     "Dungeon Generator (Trap Mechanisms)": {
-      "name": "Generador de mazmorra (Mecanismo de la trampa)",
+      "name": "Mecanismos de la trampa",
       "description": "De la página 350.",
       "results": {
         "1-1": "Muro aplastante",
@@ -32,7 +32,7 @@
       }
     },
     "Dungeon Generator (Tier 2 Rooms)": {
-      "name": "Generador de mazmorra (Salas de nivel 2)",
+      "name": "Salas de nivel 2",
       "description": "De la página 349.",
       "results": {
         "1-1": "Puesto de guardia",
@@ -44,7 +44,7 @@
       }
     },
     "Dungeon Generator (Smell)": {
-      "name": "Generador de mazmorra (Olor)",
+      "name": "Olor",
       "description": "De la página 348.",
       "results": {
         "1-1": "Agua fétida",
@@ -56,7 +56,7 @@
       }
     },
     "Dungeon Generator (Imp Traits)": {
-      "name": "Generador de mazmorra (Atributos de los duendes)",
+      "name": "Atributos de los duendes",
       "description": "De la página 348.",
       "results": {
         "1-1": "Artero",
@@ -74,7 +74,7 @@
       }
     },
     "Dungeon Generator (Minion Upgrades)": {
-      "name": "Generador de mazmorra (Mejoras de los esbirros)",
+      "name": "Mejoras de los esbirros",
       "description": "De la página 349.",
       "results": {
         "1-1": "Adeptos",
@@ -88,7 +88,7 @@
       }
     },
     "Dungeon Generator (Minion Jobs)": {
-      "name": "Generador de mazmorra (Trabajos de los esbirros)",
+      "name": "Trabajos de los esbirros",
       "description": "De la página 349.",
       "results": {
         "1-1": "Acólitos",
@@ -114,7 +114,7 @@
       }
     },
     "Dungeon Generator (Lighting)": {
-      "name": "Generador de mazmorra (Iluminación)",
+      "name": "Iluminación",
       "description": "De la página 348.",
       "results": {
         "1-1": "Antorchas en las paredes",
@@ -126,7 +126,7 @@
       }
     },
     "Dungeon Generator (Theme)": {
-      "name": "Generador de mazmorra (Temática)",
+      "name": "Temática",
       "description": "De la página 348.",
       "results": {
         "1-1": "Enclave",
@@ -138,7 +138,7 @@
       }
     },
     "Dungeon Generator (Minion Races)": {
-      "name": "Generador de mazmorra (Razas de los esbirros)",
+      "name": "Razas de los esbirros",
       "description": "De la página 349.",
       "results": {
         "1-1": "Osgo",
@@ -152,7 +152,7 @@
       }
     },
     "Dungeon Generator (Tier 3 Rooms)": {
-      "name": "Generador de mazmorra (Salas de nivel 3)",
+      "name": "Salas de nivel 3",
       "description": "De la página 349",
       "results": {
         "11-11": "Descubrimiento (1d)",
@@ -194,7 +194,7 @@
       }
     },
     "Dungeon Generator (Minion Impulses)": {
-      "name": "Generador de mazmorra (Impulsos de los esbirros)",
+      "name": "Impulsos de los esbirros",
       "description": "De la página 349.",
       "results": {
         "1-1": "Adictos",
@@ -208,7 +208,7 @@
       }
     },
     "Dungeon Generator (Tier 1 Rooms)": {
-      "name": "Generador de mazmorra (Salas de nivel 1)",
+      "name": "Salas de nivel 1",
       "description": "De la página 349.",
       "results": {
         "1-1": "Conducto",
@@ -226,7 +226,7 @@
       }
     },
     "Dungeon Generator (Door Materials)": {
-      "name": "Generador de mazmorra (Material de la puerta)",
+      "name": "Materiales de la puerta",
       "description": "De la página 350.",
       "results": {
         "1-1": "Barrotes",
@@ -244,7 +244,7 @@
       }
     },
     "Dungeon Generator (Creatures)": {
-      "name": "Generador de mazmorra (Criatura)",
+      "name": "Criaturas",
       "description": "De la página 350. (puede ser una sola criatura, un grupo o una horda)",
       "results": {
         "11-11": "Araña gigante",
@@ -286,7 +286,7 @@
       }
     },
     "Dungeon Generator (Room Traits)": {
-      "name": "Generador de mazmorra (Rasgo de la sala )",
+      "name": "Rasgos de la sala",
       "description": "De la página 348.",
       "results": {
         "1-1": "Luminosa",
@@ -312,7 +312,7 @@
       }
     },
     "Dungeon Generator (Creature Traits)": {
-      "name": "Generador de mazmorra (Características de las criaturas)",
+      "name": "Características de las criaturas",
       "description": "De la página 350. (dos por criatura)",
       "results": {
         "1-1": "Astuta",
@@ -338,7 +338,7 @@
       }
     },
     "Dungeon Generator (Lock Mechanism)": {
-      "name": "Generador de mazmorra (Mecanismo de cierre)",
+      "name": "Mecanismos de cierre",
       "description": "De la página 350.",
       "results": {
         "1-1": "Arcano",
@@ -356,7 +356,7 @@
       }
     },
     "Dungeon Generator (Trap Triggers)": {
-      "name": "Generador de mazmorra (Detonador de la trampa)",
+      "name": "Detonadores de la trampa",
       "description": "De la página 350.",
       "results": {
         "1-1": "Placa de presión",
