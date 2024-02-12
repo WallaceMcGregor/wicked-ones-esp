@@ -2,7 +2,7 @@
   "title": "[Translation] Wicked ones Spanish",
   "description": "Traducción del sistema y compendios para Wicked ones",
   "url": "https://github.com/WallaceMcGregor/wicked-ones-esp",
-  "version": "1.4.3",
+  "version": "2",
   "authors": [
     {
       "name": "WallaceMcGregor",
@@ -26,6 +26,15 @@
       "flags": {}
     }
   ],
+  "packs": [
+    {
+      "label": "Ejemplos",
+      "type": "Actor",
+      "name": "ejemplos",
+      "path": "packs/ejemplos",
+      "system": "wicked-ones"
+    }
+  ],
   "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/wicked-ones-esp/main/module.json",
   "download": "https://github.com/WallaceMcGregor/wicked-ones-esp/archive/refs/heads/main.zip",
   "id": "wicked-ones-esp",
@@ -46,7 +55,7 @@
     ]
   },
   "compatibility": {
-    "minimum": "9",
+    "minimum": "11",
     "verified": "11"
   }
 }
