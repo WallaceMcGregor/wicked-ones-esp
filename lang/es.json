@@ -543,7 +543,7 @@
       },
 
       "STARTING": {
-        "Name": "Localización inicial",
+        "Name": "Ubicación inicial",
         "Critical": "StartingLoc Roll",
         "Success": "Un éxito coloca a tus esbirros en un buen lugar. Empiezan en la sala concreta de la mazmorra en donde tú quieras que estén, con armas a mano.",
         "Mixed": "Un éxito parcial coloca a tus esbirros en una situación que no es la ideal. Tal vez no tengan armas o no empiecen en una zona óptima. Puede que estén ocupados con otra tarea.",
