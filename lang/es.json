@@ -5,6 +5,45 @@
       "Label": "Muestra por defecto la información ampliada de los resultados de las tiradas de dados"
     }
   },
+  "TYPES": {
+    "Actor": {
+      "character": "Personaje Jugador",
+      "minion_pack": "Panda de esbirros",
+      "dungeon": "Mazmorra",
+      "faction": "Facción",
+      "party": "Grupo de aventureros",
+      "gm_sheet": "Hoja de DJ",
+      "conquest_ua": "Conquista (UA)",
+      "faction_ua": "Facción (UA)",
+      "gm_sheet_ua": "Hoja de DJ (UA)",
+      "clock": "⏰ Reloj"
+    },
+    "Item": {
+      "item": "Elemento",
+      "adventurer": "Aventurero",
+      "awakened_type": "Tipo Despertado",
+      "calling": "Vocación",
+      "conquest_ability": "Capacidad de Conquista",
+      "defense": "Defensa",
+      "gearsupply": "Equipo / Suministros",
+      "goldmonger_type": "Tipo de auróvoros",
+      "duty": "Labor de Mazmorra",
+      "project": "Proyecto de descanso",
+      "invasion": "Invasión mayor",
+      "minion_upgrade": "Mejora de esbirro",
+      "minion_type": "Tipo de esbirro",
+      "specialability": "Capacidad especial",
+      "monster_race": "Raza del monstruo",
+      "wickedimpulse": "Impulso Oscuro del Malvado",
+      "minionimpulse": "Impulso Oscuro del esbirro",
+      "revelry": "Juerga",
+      "dungeon_upgrade": "Mejora de Mazmorra",
+      "dungeon_theme": "Tema de la Mazmorra",
+      "tier3room": "Sala de Nivel 3",
+      "dungeon_reputation": "Reputación de la Mazmorra",
+      "dungeon_ability": "Capacidad de la Mazmorra"
+    }
+  },
   "ACTOR": {
     "TypeCharacter": "Personaje Jugador",
     "TypeMinion_pack": "Panda de esbirros",
@@ -155,7 +194,7 @@
     "Players": "Jugadores",
     "Invasions": "Invasiones",
     "MajorInvasions": "Invasión mayor",
-    "For":  "para",
+    "For": "para",
 
     "TOOLTIP": {
       "Reset": "Restablecer",
@@ -226,7 +265,6 @@
     "SkillsskulkDescription": "sigilosamente",
     "SkillssmashDescription": "con violencia",
 
-
     "SkillsGuts": "Agallas",
     "SkillsBanter": "Charlar",
     "SkillsInvoke": "Invocar",
@@ -239,7 +277,6 @@
     "SkillsthreatenDescription": "por la fuerza",
     "SkillscommandDescription": "(no muertos)",
     "SkillshorrifyDescription": "(humanos)",
-
 
     "Position": "Posición",
     "DeadlyPosition": "Tirada para resistir la muerte",
@@ -564,6 +601,14 @@
         "Success": "La situación es perfecta, ya que obtenéis lo que estabais esperando.",
         "Mixed": "Las circunstancias no están mal, aunque desde luego no son perfectas; os lleváis una ligera decepción.",
         "Failure": "Las cosas no podrían ir peor."
+      },
+
+      "SLUMBER": {
+        "Name": "Slumber Roll",
+        "Critical": "Also, you awaken invigorated and can increase a type effect's tier by 1 once this cycle!",
+        "Success": "You slumber deeply, filling all of your dark hearts as you dream of (choose one): an interesting faction scene - the location of great treasure - secrets of the past. Establish a fact you saw.",
+        "Mixed": "You slumber restlessly, gaining a dark heart.",
+        "Failure": "Your slumber is disturbed and you overdo it, wreaking havoc on the dungeon or surrounding countryside in some way."
       }
     },
 
