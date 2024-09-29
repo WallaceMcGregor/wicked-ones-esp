@@ -90,7 +90,7 @@
     },
     "Testing Chamber": {
       "name": "Cámara de pruebas",
-      "description": "Podéis potenciar aún más vuestra ciencia de los monstruos, pero a cambio de un precio.  Podéis pagar un coste relacionado con vuestras pruebas para realizar (elige una) de las siguientes acciones: eliminar la inestabilidad de un objeto, aumentar la escala, alcance o duración de un brebaje, añadir +1d al próximo uso de un objeto específico.",
+      "description": "Podéis potenciar aún más vuestra ciencia de los monstruos, pero a cambio de un precio.  Podéis pagar un coste relacionado con vuestras pruebas para realizar (elige una) de las siguientes acciones: eliminar la inestabilidad de un objeto, aumentar la escala, alcance o duración de un mejunje, añadir +1d al próximo uso de un objeto específico.",
       "requirements": "Podría necesitar una enorme puerta de acero, una red de poleas o engranajes.",
       "theme": "Forja",
       "checkbox1": "",
@@ -186,7 +186,7 @@
     },
     "Greenery": {
       "name": "Invernadero",
-      "description": "Este jardín de plantas carnívoras devorará a todo ser vivo. Alimentadlas para cosechar una de las siguientes opciones: un suministro compartido basado en plantas, ingredientes especiales para pociones, unas pocas dosis de un brebaje. Cuanto mayor sea el nivel, mejor será la cosecha. Esta sala es también una trampa igual al nivel de la mazmorra.",
+      "description": "Este jardín de plantas carnívoras devorará a todo ser vivo. Alimentadlas para cosechar una de las siguientes opciones: un suministro compartido basado en plantas, ingredientes especiales para pociones, unas pocas dosis de un mejunje. Cuanto mayor sea el nivel, mejor será la cosecha. Esta sala es también una trampa igual al nivel de la mazmorra.",
       "requirements": "Podría necesitar plantas extrañas, fertilizante y luz solar artificial.",
       "theme": "Enclave",
       "checkbox1": "",
@@ -250,8 +250,8 @@
     },
     "Gear Locker": {
       "name": "Arsenal",
-      "description": "Siempre os equipáis bien antes de salir de la mazmorra. Tenéis un espacio adicional de suministro, así como un suministro regular de los siguientes brebajes y equipo: armas arrojadizas, bombas de brea, bombas de humo, cepos loberos, equipo de escalada, rocas del trueno y varas luminosas.",
-      "requirements": "Podría necesitar un montón de brebajes, cajas con piezas de equipo, o uniformes.",
+      "description": "Siempre os equipáis bien antes de salir de la mazmorra. Tenéis un espacio adicional de suministro, así como un suministro regular de los siguientes mejunjes y equipo: armas arrojadizas, bombas de brea, bombas de humo, cepos loberos, equipo de escalada, rocas del trueno y varas luminosas.",
+      "requirements": "Podría necesitar un montón de mejunjes, cajas con piezas de equipo, o uniformes.",
       "theme": "Escondrijo",
       "checkbox1": "",
       "checkbox2": ""
@@ -266,7 +266,7 @@
     },
     "Alchemist Lab": {
       "name": "Laboratorio de alquimia",
-      "description": "Vuestros duendes se esfuerzan mucho a la hora de mezclar sustancias. Tenéis un suministro regular de todos los brebajes de nivel 1.",
+      "description": "Vuestros duendes se esfuerzan mucho a la hora de mezclar sustancias. Tenéis un suministro regular de todos los mejunjes de nivel 1.",
       "requirements": "Podría necesitar un equipo de alquimia, cofres llenos de sustancias o recetas.",
       "theme": "Forja",
       "checkbox1": "",
