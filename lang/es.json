@@ -218,7 +218,7 @@
       "Guardian": "Cada sesión donde no hayas acabado reventado o no hayas perdido los estribos, ganas 1 EXP. Cuando acumules 3 puntos, podrás aumentar el valor de acción de un rayo ocular (hasta un máximo de 3D) o añadir un punto a una acción normal.",
 
       "Skillsscan": "Cuando utilizas EXAMINAR, analizas de forma perspicaz las situaciones o recopilas información.",
-      "Skillstinker": "Cuando utilizas TRASTEAR, toqueteas de manera ingeniosa un dispositivo, un mecanismo o un brebaje.",
+      "Skillstinker": "Cuando utilizas TRASTEAR, toqueteas de manera ingeniosa un dispositivo, un mecanismo o un mejunje.",
       "Skillstrick": "Cuando utilizas ENGAÑAR, confundes o te burlas de manera astuta de alguien.",
       "Skillsfinesse": "Cuando utilizas AFINAR, apuntas, maniobras o utilizas herramientas con precisión.",
       "Skillsskulk": "Cuando utilizas ACECHAR, te mueves de manera sigilosa sin ser visto o lanzas un ataque por sorpresa.",
@@ -288,7 +288,7 @@
     "Modifier": "Modificador",
     "RollType": "Tipo de tirada",
     "ActionsHelp": "<strong>Ayudar:</strong> Das +efecto, pero eres vulnerable a las consecuencias<br><strong>Darlo todo: </strong>Cambias +efecto por -situación<br><span id='team-up'><strong>Trabajar en equipo:</strong>  Obtienes el resultado más alto, pero cada PJ que haya obtenido un éxito parcial o un fracaso sufre estrés.</span><br><strong>Pacto oscuro:</strong> Obtienes +1d a cambio de una consecuencia<br><strong>Corazón oscuro:</strong> Añades +1d a la tirada.",
-    "ProjectsHelp": "<strong>•Construir</strong> un portón, una sala, una trampa o un truco.<br><strong>•Contactar</strong> lcon un amigo vil, facción u otro PNJ.<br><strong>•Elaborar</strong> un brebaje o poción.<br><strong>•Fabricar</strong> un objeto, ventaja o artilugio.<br><strong>•Preparar</strong> un ritual.<br><strong>•Reclutar</strong> una panda de esbirros o atrae a una criatura.<br><strong>•Torturar</strong> a un prisionero.<br><br><strong>•¡Arriésgate!</strong><br>Puedes repetir cualquier acción de esta fase perdiendo su situación ventajosa.",
+    "ProjectsHelp": "<strong>•Construir</strong> un portón, una sala, una trampa o un truco.<br><strong>•Contactar</strong> lcon un amigo vil, facción u otro PNJ.<br><strong>•Elaborar</strong> un mejunje o poción.<br><strong>•Fabricar</strong> un objeto, ventaja o artilugio.<br><strong>•Preparar</strong> un ritual.<br><strong>•Reclutar</strong> una panda de esbirros o atrae a una criatura.<br><strong>•Torturar</strong> a un prisionero.<br><br><strong>•¡Arriésgate!</strong><br>Puedes repetir cualquier acción de esta fase perdiendo su situación ventajosa.",
 
     "Bloodied": "Reventado",
     "Exposed": "Vulnerable",
@@ -450,10 +450,10 @@
     "Adventurers": "Aventureros",
     "AdventurerClass": "Clase del aventurero",
     "CustomClassHint": "Introduce una clase personalizada",
-    "HirelingType": "Tipo de allegado",
+    "HirelingType": "Tipo de ayudante",
     "CustomTypeHint": "Introduce un tipo personalizado",
-    "Hireling": "Allegado",
-    "Hirelings": "Allegados",
+    "Hireling": "Ayudante",
+    "Hirelings": "Ayudantes",
     "AdventurerPassive": "Habilidad pasiva",
     "HirelingPassiveHint": "(dejar en blanco para asignar un único movimiento)",
     "CustomTraitHint": "Introduce la característica personalizada",
@@ -653,7 +653,7 @@
 
     "ADV_CLASS_PASSIVE": {
       "Academic": "Destaca a la hora de orientarse dentro de la mazmorra.",
-      "Alchemist": "Puede utilizar cualquier brebaje de nivel 1 o 2 de la página 121.",
+      "Alchemist": "Puede utilizar cualquier mejunje de nivel 1 o 2 de la página 121.",
       "Amazon": "Tiene mucha determinación y una voluntad de hierro.",
       "Aristocrat": "Destaca en combate uno contra uno.",
       "Assassin": "Siempre inicia una escena escondido.",
