@@ -10,7 +10,7 @@
         "13-13": "Un bardo muy carismático ha convencido a un gran número de mercenarios para unirse a él e invadiros.",
         "14-14": "Un sacerdote conduce a una turba furiosa hacia vuestra mazmorra con la intención de librar al mundo de vuestras maldades.",
         "15-15": "Las facciones de una zona determinada del entorno se alían, por lo cual tenéis -1d en todas las tiradas de represalia asociadas.",
-        "16-16": "Un escuadrón de soldados (entre diez y veinte allegados) se dirige a vuestra mazmorra para limpiarla.",
+        "16-16": "Un escuadrón de soldados (entre diez y veinte ayudantes) se dirige a vuestra mazmorra para limpiarla.",
         "21-21": "Los exploradores de la zona han capturado a uno de vosotros mientras volvíais a casa y están a punto de ahorcarlo.",
         "22-22": "Un paladín se interpone en vuestro camino y desenvaina su espada. Su amigo, el pícaro, espera entre los arbustos.",
         "23-23": "Un pequeño ejército ha levantado un campamento en torno a la entrada de vuestra mazmorra, pero aún no la ha visto.",
@@ -132,7 +132,7 @@
       "description": "De la página 248",
       "results": {
         "11-11": "Aparecen unos civiles con horcas dispuestos a despacharos. No están muy preparados.",
-        "12-12": "Un solitario aventurero, a la cabeza de unos cuantos allegados, explora vuestra mazmorra.",
+        "12-12": "Un solitario aventurero, a la cabeza de unos cuantos ayudantes, explora vuestra mazmorra.",
         "13-13": "Una sala o dos se inundan hasta la altura de la cadera. Perdéis los beneficios de estas salas durante un ciclo.",
         "14-14": "Un lobo agresivo vaga hasta vuestra mazmorra, buscando un lugar para dormir.",
         "15-15": "Los duendes rompen uno de los objetos más importantes de la mazmorra mientras lo transportan.",
@@ -149,7 +149,7 @@
         "34-34": "Como los duendes no paran de caer en una trampa, esta se rompe y pierde un nivel.",
         "35-35": "Una facción oscura que ha sido vuestra aliada o neutral hacia vosotros se vuelve hostil.",
         "36-36": "Un diablillo escribe la solución a uno de vuestros trucos en la pared para que no se le olvide cómo evitarlo. El truco pierde un nivel.",
-        "41-41": "Un pequeño terremoto rompe una poción o brebaje del inventario de un PJ y le afecta de inmediato.",
+        "41-41": "Un pequeño terremoto rompe una poción o mejunje del inventario de un PJ y le afecta de inmediato.",
         "42-42": "Un  grupo de esbirros decide que ya han tenido suficiente y deserta.",
         "43-43": "Un grupo de esbirros pierde una de sus mejoras por culpa de un accidente (o actividades, como apostar).",
         "44-44": "Un grupo de esbirros se marchó de la mazmorra y asaltó una pequeña granja. Resolved inmediatamente una represalia menor.",
@@ -308,7 +308,7 @@
       }
     },
     "Example Concotions": {
-      "name": "Brebajes de ejemplo",
+      "name": "Mejunjes de ejemplo",
       "description": "Junto con su posible efecto e inestabilidad. De la página 121. Nivel 1: 11-26 -- Nivel 2: 31-46 -- Nivel 3: 41-66",
       "results": {
         "11-11": "Vara luminosa: Ilumina una zona como si fuera una antorcha, pero la luz es de un color aleatorio.",
@@ -361,7 +361,7 @@
         "16-16": "Lanzacuerdas: Arroja una cuerda volando a una gran distancia, pero necesita tiempo para recogerla.",
         "21-21": "Tubo de buceo: Te permite respirar bajo el agua, pero también te pueden detectar con facilidad.",
         "22-22": "Daga-muelle oculta: Te coloca instantáneamente una daga en la mano, pero se dispara sola en momentos aleatorios.",
-        "23-23": "Lanzabrebajes: Dispara un brebaje a larga distancia, pero es molesto y aparatoso llevar este artilugio encima.",
+        "23-23": "Lanzamejunjes: Dispara un mejunje a larga distancia, pero es molesto y aparatoso llevar este artilugio encima.",
         "24-24": "Cepo: Se cierra sobre el pie de cualquier persona que lo pise, pero es muy peligroso recogerlo.",
         "25-25": "Espejo esquinero: Puedes ver lo que hay al otro lado de cada esquina, pero se rompe fácilmente.",
         "26-26": "Silbato agudo: Solo lo oyen los perros y bestias parecidas, pero te da dolor de cabeza.",
@@ -499,7 +499,7 @@
         "36-36": "Parpadeo: Te protege de las flechas, pero al usar esta defensa, te teletransportas a un lugar aleatorio que esté cerca.",
         "41-41": "Brebaje de Dalgeth: Quien beba esta poción creerá que todo lo que oye es falso, pero después del efecto, se percatará de lo sucedido.",
         "42-42": "Climavidencia: Puedes establecer un hecho sobre el clima, pero enfureces a las criaturas salvajes cercanas.",
-        "43-43": "Veleta: Quien beba esta poción reconsiderará su objetivo actual, pero todo el mundo desconfía de ti mientras lleves encima este brebaje.",
+        "43-43": "Veleta: Quien beba esta poción reconsiderará su objetivo actual, pero todo el mundo desconfía de ti mientras lleves encima este mejunje.",
         "44-44": "Mechamagia: Atrae la magia hacia la redoma  y la contiene en su interior, pero la magia contenida es sumamente inestable.",
         "45-45": "Mollera férrea: Te proporciona una defensa contra los encantamientos, pero quedas vulnerable tras usar la defensa.",
         "46-46": "Mandíbula de serpiente: Puedes engullir cualquier cosa de hasta tu mismo tamaño sin que te resulte incómodo, pero sabe a rayos.",
