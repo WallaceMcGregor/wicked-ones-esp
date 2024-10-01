@@ -262,7 +262,7 @@
     },
     "Beastform": {
       "name": "Forma de la bestia",
-      "description": "Puedes sufrir estrés para adoptar la forma de una bestia. Mientras estás así transformado, una de tus acciones intercambia su valor con otra y ganas una Capacidad primordial o una capacidad vocacional de otra clase. También obtienes un segundo impulso oscuro mientras estás en esta forma. Debes determinar todos estos cambios según escoges esta capacidad y son fijos.",
+      "description": "Puedes sufrir estrés para adoptar la forma de una bestia. Mientras estás así transformado, una de tus acciones intercambia su valor con otra y ganas una Capacidad ancestral o una capacidad vocacional de otra clase. También obtienes un segundo impulso oscuro mientras estás en esta forma. Debes determinar todos estos cambios según escoges esta capacidad y son fijos.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
