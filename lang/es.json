@@ -590,9 +590,9 @@
       "PATHING": {
         "Name": "Exploración",
         "Critical": "Pathing Roll",
-        "Success": "Con un éxito o éxito parcial, irán en la dirección en la que los jugadores quieran.",
-        "Mixed": "Con un éxito o éxito parcial, irán en la dirección en la que los jugadores quieran.",
-        "Failure": "Con un éxito o éxito parcial, irán en la dirección en la que los jugadores quieran. Con un fracaso, <strong>van por la vía contraria.</strong>"
+        "Success": "Los invasores irán en la dirección en la que los jugadores quieran.",
+        "Mixed": "Los invasores irán en la dirección en la que los jugadores quieran.",
+        "Failure": "Los invasores van por la vía contraria."
       },
 
       "FORTUNE": {
