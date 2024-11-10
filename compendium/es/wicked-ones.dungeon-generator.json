@@ -3,7 +3,7 @@
   "entries": {
     "Dungeon Generator (Floors & Walls)": {
       "name": "Suelos y paredes",
-      "description": "De la página 348.",
+      "description": "De la página 371.",
       "results": {
         "1-1": "Piedra fría y húmeda",
         "2-2": "Barro y raíces",
@@ -15,7 +15,7 @@
     },
     "Dungeon Generator (Trap Mechanisms)": {
       "name": "Mecanismos de la trampa",
-      "description": "De la página 350.",
+      "description": "De la página 373.",
       "results": {
         "1-1": "Muro aplastante",
         "2-2": "Dardos",
@@ -33,7 +33,7 @@
     },
     "Dungeon Generator (Tier 2 Rooms)": {
       "name": "Salas de nivel 2",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Puesto de guardia",
         "2-2": "Guarida de esbirro",
@@ -45,10 +45,10 @@
     },
     "Dungeon Generator (Smell)": {
       "name": "Olor",
-      "description": "De la página 348.",
+      "description": "De la página 371.",
       "results": {
         "1-1": "Agua fétida",
-        "2-2": "Incienso abrumador",
+        "2-2": "Incienso insoportable",
         "3-3": "Carne podrida",
         "4-4": "Azufre",
         "5-5": "Grasa y humo",
@@ -57,25 +57,25 @@
     },
     "Dungeon Generator (Imp Traits)": {
       "name": "Atributos de los duendes",
-      "description": "De la página 348.",
+      "description": "De la página 371.",
       "results": {
-        "1-1": "Artero",
-        "2-2": "Cobarde",
-        "3-3": "Cruel",
-        "4-4": "Servicial",
-        "5-5": "Ruidoso",
-        "6-6": "Problemático",
-        "7-7": "Irritante",
-        "8-8": "Chalado",
-        "9-9": "Estúpido",
-        "10-10": "Arisco",
-        "11-11": "Incansable",
-        "12-12": "Vago"
+        "1-1": "Ingeniosos",
+        "2-2": "Cobardes",
+        "3-3": "Crueles",
+        "4-4": "Serviciales",
+        "5-5": "Ruidosos",
+        "6-6": "Problemáticos",
+        "7-7": "Irritantes",
+        "8-8": "Chalados",
+        "9-9": "Estúpidos",
+        "10-10": "Ariscos",
+        "11-11": "Incansables",
+        "12-12": "Vagos"
       }
     },
     "Dungeon Generator (Minion Upgrades)": {
       "name": "Mejoras de los esbirros",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Adeptos",
         "2-2": "Adiestrados",
@@ -89,7 +89,7 @@
     },
     "Dungeon Generator (Minion Jobs)": {
       "name": "Trabajos de los esbirros",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Acólitos",
         "2-2": "Alquimistas",
@@ -115,7 +115,7 @@
     },
     "Dungeon Generator (Lighting)": {
       "name": "Iluminación",
-      "description": "De la página 348.",
+      "description": "De la página 371.",
       "results": {
         "1-1": "Antorchas en las paredes",
         "2-2": "Ríos de lava",
@@ -127,11 +127,11 @@
     },
     "Dungeon Generator (Theme)": {
       "name": "Temática",
-      "description": "De la página 348.",
+      "description": "De la página 371.",
       "results": {
         "1-1": "Enclave",
-        "2-2": "Forja",
-        "3-3": "Escondrijo",
+        "2-2": "Escondrijo",
+        "3-3": "Forja",
         "4-4": "Fortaleza",
         "5-5": "Templo",
         "6-6": "Sin función principal"
@@ -139,7 +139,7 @@
     },
     "Dungeon Generator (Minion Races)": {
       "name": "Razas de los esbirros",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Osgo",
         "2-2": "Demonio",
@@ -153,7 +153,7 @@
     },
     "Dungeon Generator (Tier 3 Rooms)": {
       "name": "Salas de nivel 3",
-      "description": "De la página 349",
+      "description": "De la página 372",
       "results": {
         "11-11": "Descubrimiento (1d)",
         "12-12": "Academia",
@@ -195,7 +195,7 @@
     },
     "Dungeon Generator (Minion Impulses)": {
       "name": "Impulsos de los esbirros",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Adictos",
         "2-2": "Agresivos",
@@ -209,7 +209,7 @@
     },
     "Dungeon Generator (Tier 1 Rooms)": {
       "name": "Salas de nivel 1",
-      "description": "De la página 349.",
+      "description": "De la página 372.",
       "results": {
         "1-1": "Conducto",
         "2-2": "Fuente (menor)",
@@ -226,8 +226,8 @@
       }
     },
     "Dungeon Generator (Door Materials)": {
-      "name": "Materiales de la puerta",
-      "description": "De la página 350.",
+      "name": "Material de la puerta",
+      "description": "De la página 373.",
       "results": {
         "1-1": "Barrotes",
         "2-2": "Hueso",
@@ -245,7 +245,7 @@
     },
     "Dungeon Generator (Creatures)": {
       "name": "Criaturas",
-      "description": "De la página 350. (puede ser una sola criatura, un grupo o una horda)",
+      "description": "De la página 373. (puede ser una sola criatura, un grupo o una horda)",
       "results": {
         "11-11": "Araña gigante",
         "12-12": "Bandada de murciélagos",
@@ -267,17 +267,17 @@
         "36-36": "Trol de las cavernas",
         "41-41": "Necrófago",
         "42-42": "Serpiente de lava",
-        "43-43": "Monstruo de barro",
+        "43-43": "Monstruo de lodo",
         "44-44": "Guerrero mecánico",
         "45-45": "Monstruo oxidante",
         "46-46": "Ciempiés gigante",
         "51-51": "Ettercap",
-        "52-52": "Babaza",
+        "52-52": "Cieno",
         "53-53": "Micónido",
         "54-54": "Minotauro",
         "55-55": "Mantoscuro",
         "56-56": "Grick",
-        "61-61": "Reptador carroñero",
+        "61-61": "Carroñero reptante",
         "62-62": "Huargo",
         "63-63": "Estirge",
         "64-64": "Quásit",
@@ -286,14 +286,14 @@
       }
     },
     "Dungeon Generator (Room Traits)": {
-      "name": "Rasgos de la sala",
-      "description": "De la página 348.",
+      "name": "Características de la sala",
+      "description": "De la página 371.",
       "results": {
         "1-1": "Luminosa",
         "2-2": "Abarrotada",
         "3-3": "Fría",
         "4-4": "Confusa",
-        "5-5": "Derruida",
+        "5-5": "Destruida",
         "6-6": "Húmeda",
         "7-7": "Mal iluminada",
         "8-8": "Con eco",
@@ -304,7 +304,7 @@
         "13-13": "Ruidosa",
         "14-14": "Silenciosa",
         "15-15": "Cambiante",
-        "16-16": "Silenciosa",
+        "16-16": "Resbaladiza",
         "17-17": "Inclinada",
         "18-18": "Apestosa",
         "19-19": "Escalofriante",
@@ -312,8 +312,8 @@
       }
     },
     "Dungeon Generator (Creature Traits)": {
-      "name": "Características de las criaturas",
-      "description": "De la página 350. (dos por criatura)",
+      "name": "Rasgos de las criaturas",
+      "description": "De la página 373. (dos por criatura)",
       "results": {
         "1-1": "Astuta",
         "2-2": "Corrupta",
@@ -338,8 +338,8 @@
       }
     },
     "Dungeon Generator (Lock Mechanism)": {
-      "name": "Mecanismos de cierre",
-      "description": "De la página 350.",
+      "name": "Mecanismo de cierre",
+      "description": "De la página 373.",
       "results": {
         "1-1": "Arcano",
         "2-2": "Barra",
@@ -356,8 +356,8 @@
       }
     },
     "Dungeon Generator (Trap Triggers)": {
-      "name": "Detonadores de la trampa",
-      "description": "De la página 350.",
+      "name": "Detonador de la trampa",
+      "description": "De la página 373.",
       "results": {
         "1-1": "Placa de presión",
         "2-2": "Cordel",
