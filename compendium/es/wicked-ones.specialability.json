@@ -409,11 +409,11 @@
       "primalDomainDescription1": "",
       "primalDomainName2": "",
       "primalDomainDescription2": "",
-      "growthPathDescription1": "Puedes escupir tu aliento ocasionando un poderoso estallido. Es un efecto de nivel 1 basado en tu tipo.",
+      "growthPathDescription1": "Puedes escupir tu aliento ocasionando un poderoso chorro. Es un efecto de nivel 1 basado en tu tipo.",
       "growthPathCheckbox1": "",
       "growthPathDescription2": "Puedes sufrir estrés para aumentar el poder del aliento hasta nivel 2.",
       "growthPathCheckbox2": "",
-      "growthPathDescription3": "Si lo das todo con el estallido, aumentas un nivel en lugar de ganar +efecto. Con un éxito al darlo todo, también ganas un corazón oscuro.",
+      "growthPathDescription3": "Si lo das todo con el aliento, aumentas un nivel en lugar de ganar +efecto. Con un éxito al darlo todo, también ganas un corazón oscuro.",
       "growthPathCheckbox3": ""
     },
     "Slumber": {
@@ -548,7 +548,7 @@
     },
     "Grotesque Mutations": {
       "name": "Mutaciones grotescas",
-      "description": "Cuando te transformas, puedes cambiar a una versión grotesca de aquello en lo que te has metaforseado: así, podrías tener múltiples cabezas o las extremidades invertidas. Ganas +1d al horrorizar a alguien con tu apariencia y, si tienes éxito, obtienes un corazón oscuro.",
+      "description": "Cuando te transformas, puedes cambiar a una versión grotesca de aquello en lo que te has transformado: así, podrías tener múltiples cabezas o extremidades invertidas. Ganas +1d al horrorizar a alguien con tu apariencia y, si tienes éxito, obtienes un corazón oscuro.",
       "source": "Robacaras",
       "checkbox1": "",
       "checkbox2": "",
@@ -1041,7 +1041,7 @@
       "growthPathCheckbox3": ""
     },
     "Hide": {
-      "name": "Protección",
+      "name": "Piel",
       "description": "",
       "source": "Auróvoro",
       "checkbox1": "",
@@ -1059,9 +1059,9 @@
       "primalDomainDescription1": "",
       "primalDomainName2": "",
       "primalDomainDescription2": "",
-      "growthPathDescription1": "Elige una para tus escamas... tienen una ventaja o se convierten en un objeto mágico de nivel 1 de tu tipo. Las ventajas recomendadas son camuflaje, resbaladiza, puntiaguda. Ganas una defensa gracias a tus escamas.",
+      "growthPathDescription1": "Elige una para tus escamas: tienen una ventaja o se convierten en un objeto mágico de nivel 1 de tu tipo. Las ventajas recomendadas son camuflaje, punzantes o resbaladizas. Ganas una defensa gracias a tus escamas.",
       "growthPathCheckbox1": "",
-      "growthPathDescription2": "Con un éxito al resistir un ataque físico, puedes hacer una de las siguientes (elige una)... romper el arma enemiga, manifestar tu tipo (nivel 1), provocar miedo en su corazón.",
+      "growthPathDescription2": "Con un éxito al resistir un ataque físico, puedes hacer una de las siguientes (elige una): romper el arma enemiga, manifestar tu tipo (nivel 1) o provocar miedo en su corazón.",
       "growthPathCheckbox2": "",
       "growthPathDescription3": "Puedes sufrir estrés para manifestar un aura de tu tipo a tu alrededor que dure unos instantes. Cuando alguien penetre en el aura, haz una tirada de fortuna con Invocar para ver si les afecta con un efecto de nivel 1 de tu tipo.",
       "growthPathCheckbox3": ""
@@ -1680,7 +1680,7 @@
       "psiActionName": "Someter",
       "psiActionDescription": "Sometes las mentes de los demás a tu voluntad.",
       "primalDomainName1": "Servidumbre",
-      "primalDomainDescription1": "YPuedes lanzar un ritual de nivel 1 para convertir a un aventurero sometido en tu siervo, lo que te ocupa el espacio del grupo de esbirros. Tiene las mejoras compañero y mentalidad (leal). También tiene una acción adicional con un valor igual a su nivel y una capacidad de vocación que representa algo que pueda hacer. Si la habilidad necesita que sufra estrés, seras tú quien lo sufra en su lugar.",
+      "primalDomainDescription1": "YPuedes lanzar un ritual de nivel 1 para convertir a un aventurero sometido en tu siervo, lo que te ocupa el espacio del grupo de esbirros. Tiene las mejoras compañero y mentalidad (leal). También tiene una acción adicional con un valor igual a su nivel y una capacidad de vocación que representa algo que pueda hacer. Si la capacidad necesita que sufra estrés, seras tú quien lo sufra en su lugar.",
       "primalDomainName2": "Campo antimagia",
       "primalDomainDescription2": "Puedes sufrir estrés para crear un campo esférico que anula la magia: todo tipo de magia deja de funcionar dentro de su radio. Cualquiera que intente lanzar magia sufrirá un fuerte castigo mental. La esfera en sí es cristalina y vulnerable a los ataques físicos o que pierdas la concentración.",
       "growthPathDescription1": "",
@@ -2445,7 +2445,7 @@
       "growthPathCheckbox3": ""
     },
     "Meddling": {
-      "name": "Manipulación",
+      "name": "Metomentodo",
       "description": "Se te da muy bien manipular las facciones desde dentro. Ganas una acción de descanso adicional que solo puedes usar para hacer avanzar o retroceder los relojes de las facciones. Se supone que estás transformado durante este tiempo, aunque no es necesario que sufras estrés.",
       "source": "Robacaras",
       "checkbox1": "",
