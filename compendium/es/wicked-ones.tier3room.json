@@ -10,7 +10,7 @@
   "entries": {
     "Altar": {
       "name": "Altar",
-      "description": "Puedes realizar sacrificios en el altar, pagando el precio para obtener una de las siguientes bendiciones oscuras: ganas +1d en una única tirada con un objeto de este ciclo; ganas +1d en tu siguiente tirada de resistencia; tu próximo fracaso se convierte en un éxito parcial. Cada vez que solicites una bendición, el sacrificio debe ser diferente.",
+      "description": "Puedes realizar sacrificios en el altar, pagando el precio para obtener una de las siguientes bendiciones oscuras: ganas +1d en una única tirada con un objeto de este ciclo, ganas +1d en tu siguiente tirada de resistencia o tu próximo fracaso se convierte en un éxito parcial. Cada vez que solicites una bendición, el sacrificio debe ser diferente.",
       "requirements": "Podría necesitar incienso, estatuas o iconos específicos de los dominios de vuestro dios.",
       "theme": "Templo",
       "checkbox1": "",
@@ -35,7 +35,7 @@
     "Barracks": {
       "name": "Barracones",
       "description": "Nuevos reclutas acuden en bandada a vuestra mazmorra. Podéis reclutar esbirros en esta sala: su acción primaria es Destrozar y disponen de la mejora mentalidad (leal) de forma gratuita. La sala también actúa como una criatura con un nivel igual al de la mazmorra.",
-      "requirements": "Podrían necesitar armas, armaduras, o una gran cantidad de raciones.",
+      "requirements": "Podrían necesitar armas, armaduras o una gran cantidad de raciones.",
       "theme": "Fortaleza",
       "checkbox1": "",
       "checkbox2": ""
@@ -49,8 +49,8 @@
       "checkbox2": ""
     },
     "Spawning Chamber": {
-      "name": "Cubil de los engendros",
-      "description": "En esta sala se invocan o se crían esbirros con el fin de reemplazar con facilidad vuestras bajas. Una vez en cada defensa de la mazmorra, esta cámara creará una copia de un grupo de esbirros muertos. También puedes aplicar la mejora prescindibles a los esbirros de forma gratuita.",
+      "name": "Cubil de engendros",
+      "description": "En esta sala se invocan o se crían esbirros con el fin de reemplazar con facilidad vuestras bajas. Una vez en cada defensa de la mazmorra, esta cámara creará una copia de una panda de esbirros muertos. También puedes aplicar la mejora prescindibles a los esbirros de forma gratuita.",
       "requirements": "Podría necesitar limo místico, recipientes de vidrio o semillas mágicass.",
       "theme": "Enclave",
       "checkbox1": "Utilizada",
@@ -90,8 +90,8 @@
     },
     "Testing Chamber": {
       "name": "Cámara de pruebas",
-      "description": "Podéis potenciar aún más vuestra ciencia de los monstruos, pero a cambio de un precio.  Podéis pagar un coste relacionado con vuestras pruebas para realizar (elige una) de las siguientes acciones: eliminar la inestabilidad de un objeto, aumentar la escala, alcance o duración de un mejunje, añadir +1d al próximo uso de un objeto específico.",
-      "requirements": "Podría necesitar una enorme puerta de acero, una red de poleas o engranajes.",
+      "description": "Sois capaces de potenciar aún más vuestra ciencia monstruosa, pero a cambio de un precio.  Podéis pagar el precio relacionado con vuestras pruebas para realizar una de las siguientes acciones: eliminar la inestabilidad de un objeto, aumentar la escala, alcance o duración de un mejunje o añadir +1d al próximo uso de un objeto específico.",
+      "requirements": "Podría necesitar una enorme puerta de acero, un sistema de poleas o engranajes.",
       "theme": "Forja",
       "checkbox1": "",
       "checkbox2": ""
@@ -107,14 +107,14 @@
     "Funeral Pyre": {
       "name": "Pira funeraria",
       "description": "Vuestra cultura guerrera honra a los muertos: quemáis sus cadáveres a modo de despedida cuando marchan al más allá. Cuando los esbirros mueren en combate, la moral de cualquier otro esbirro que sea testigo de ello aumenta y realizará una acción en la próxima fase de descanso sin pedir oro a cambio.",
-      "requirements": "Podría necesitar incienso, madera especial, o los tabardos de los enemigos asesinados.",
+      "requirements": "Podría necesitar incienso, madera especial o los tabardos de los enemigos asesinados.",
       "theme": "Fortaleza",
       "checkbox1": "",
       "checkbox2": ""
     },
     "Obstacle Course": {
       "name": "Pista de obstáculos",
-      "description": "En esta sala, los esbirros entrenan duro para perfeccionar sus habilidades. Al reclutarlos, podéis añadir una acción 2d adicional, pero solo Acechar, Afinar o Examinar. La sala también actúa como un truco igual al nivel de la mazmorra, que debe describirse al construir la sala.",
+      "description": "En esta sala, los esbirros entrenan duro para perfeccionar sus habilidades. Al reclutarlos, podéis añadir una acción primaria adicional, ero debe ser entre Acechar, Afinar o Examinar. La sala también actúa como un truco igual al nivel de la mazmorra, que debe describirse al construir la sala.",
       "requirements": "Podría necesitar rollos de alambre, grandes pinchos o barriles de alquitrán.",
       "theme": "Escondrijo",
       "checkbox1": "",
@@ -138,7 +138,7 @@
     },
     "Dojo": {
       "name": "Dojo",
-      "description": "El maestro del dojo os enseña infatigablemente hasta convertiros en un equipo. Al trabajar juntos, sufrís estrés solo con un fracaso y podéis usar seises de uno o más participantes distintos a la hora de determinar si el resultado es un crítico. La sala también actúa como una criatura con un nivel igual al de la mazmorra.",
+      "description": "El maestro del dojo os estrena infatigablemente hasta convertiros en un equipo. Cuando trabajáis en equipo, sufrís estrés solo con un fracaso y podéis usar seises de uno o más participantes distintos a la hora de determinar si el resultado es un crítico. La sala también actúa como una criatura con un nivel igual al de la mazmorra.",
       "requirements": "Solo necesita un maestro para entrenaros, al que tendréis que derrotar o impresionar.",
       "theme": "Escondrijo",
       "checkbox1": "",
@@ -163,7 +163,7 @@
     "Dormitory": {
       "name": "Dormitorio",
       "description": "Nuevos sectarios llegan en gran número para servir a vuestro dios. Podéis reclutar esbirros en esta estancia. Como acción primaria, siempre tendrán la acción preferida de vuestro dios, que se elige al construir la sala, y comienzan con la ventaja mentalidad (fanático) de forma gratuita. La estancia también actúa como una criatura con un nivel igual al de la mazmorra.",
-      "requirements": "Podrían necesitar muebles, accesorios, o el primer grupo de sectarios.",
+      "requirements": "Podrían necesitar muebles, accesorios o el primer grupo de sectarios.",
       "theme": "Templo",
       "checkbox1": "",
       "checkbox2": ""
@@ -186,7 +186,7 @@
     },
     "Greenery": {
       "name": "Invernadero",
-      "description": "Este jardín de plantas carnívoras devorará a todo ser vivo. Alimentadlas para cosechar una de las siguientes opciones: un suministro compartido basado en plantas, ingredientes especiales para pociones, unas pocas dosis de un mejunje. Cuanto mayor sea el nivel, mejor será la cosecha. Esta sala es también una trampa igual al nivel de la mazmorra.",
+      "description": "Este jardín de plantas carnívoras devorará a todo ser vivo. Alimentadlas para cosechar una de las siguientes opciones: un suministro compartido basado en plantas, ingredientes especiales para pociones o unas pocas dosis de un mejunje. Cuanto mayor sea el nivel, mejor será la cosecha. Esta sala es también una trampa igual al nivel de la mazmorra.",
       "requirements": "Podría necesitar plantas extrañas, fertilizante y luz solar artificial.",
       "theme": "Enclave",
       "checkbox1": "",
@@ -195,14 +195,14 @@
     "Roost": {
       "name": "Nido",
       "description": "A vuestro servicio se encuentran murciélagos, cuervos u otras pequeñas bestias aladas. Cada vez que planeáis una incursión, la mazmorra puede establecer un hecho sobre el objetivo que vuestras bestias hayan observado desde el cielo. También podéis hacer un flashback durante la incursión para utilizar una vez esta sala mientras estáis fuera de la mazmorra.",
-      "requirements": "Podría necesitar jaulas, bestias aladas o comida de mascota.",
+      "requirements": "Podría necesitar jaulas, bestias aladas o comida para mascotas.",
       "theme": "Escondrijo",
       "checkbox1": "",
       "checkbox2": ""
     },
     "Gambling Den": {
       "name": "Garito de juego",
-      "description": "Montáis un pequeño antro para atraer monstruos de fuera de la mazmorra. Podéis reclutar esbirros en esta sala, que siempre tendrán Engañar como acción primaria (a 2d) y empezarán de forma gratuita con la mejora pertrechados. La sala también actúa como una criatura con un nivel igual al de la mazmorra.",
+      "description": "Montáis un pequeño antro para atraer monstruos de fuera de la mazmorra. Podéis reclutar esbirros en esta sala, que siempre tendrán Engañar como acción primaria y empezarán de forma gratuita con la mejora pertrechados. La sala también actúa como una criatura con un nivel igual al de la mazmorra.",
       "requirements": "Podría necesitar mesas de juego, iluminación lujosa o cigarros.",
       "theme": "Escondrijo",
       "checkbox1": "",
@@ -210,8 +210,8 @@
     },
     "Vehicle Bay": {
       "name": "Hangar",
-      "description": "La mazmorra tiene un vehículo increíble: un submarino, un dirigible o un automóvil de vapor. Describid el vehículo y dadle dos ventajas: acorazado, ágil, camuflado, fiable y rápido.  Después, elegid un defecto: desvencijado, lento, llamativo, torpe o ruidoso. En cada recuperación, los duendes reparan o reconstruyen el vehículo por completo.",
-      "requirements": "Podría necesitar piezas de vehículos, barriles de combustible, o pintura molona.",
+      "description": "La mazmorra tiene un vehículo increíble: un submarino, un dirigible o un automóvil de vapor. Describid el vehículo y dadle dos ventajas: acorazado, ágil, camuflado, fiable o rápido.  Después, elegid un defecto: desvencijado, lento, llamativo, torpe o ruidoso. En cada recuperación, los duendes reparan o reconstruyen el vehículo por completo.",
+      "requirements": "Podría necesitar piezas de vehículos, barriles de combustible o pintura molona.",
       "theme": "Forja",
       "checkbox1": "Vehículo dañado",
       "checkbox2": "Vehículo destruido"
@@ -227,7 +227,7 @@
     "Fighting Pit": {
       "name": "Foso de combate",
       "description": "Colocad a dos oponentes a vuestra elección en el foso: cada PJ elige quién cree que ganará. Haced una tirada de fortuna por cada luchador; el perdedor muere. Si hay empate, ambos sobreviven. Cuando el luchador elegido gana, el PJ que lo ha apoyado gana un corazón oscuro.",
-      "requirements": "Podría necesitar armas exóticas, animales peligrosos, o un árbitro.",
+      "requirements": "Podría necesitar armas exóticas, animales peligrosos o un árbitro.",
       "theme": "Fortaleza",
       "checkbox1": "",
       "checkbox2": ""
@@ -250,8 +250,8 @@
     },
     "Gear Locker": {
       "name": "Arsenal",
-      "description": "Siempre os equipáis bien antes de salir de la mazmorra. Tenéis un espacio adicional de suministro, así como un suministro regular de los siguientes mejunjes y equipo: armas arrojadizas, bombas de brea, bombas de humo, cepos loberos, equipo de escalada, rocas del trueno y varas luminosas.",
-      "requirements": "Podría necesitar un montón de mejunjes, cajas con piezas de equipo, o uniformes.",
+      "description": "Siempre os equipáis bien antes de salir de la mazmorra. Tenéis un espacio adicional de suministro, así como un suministro regular de los siguientes mejunjes y equipo: armas arrojadizas, bombas de brea, bombas de humo, cepos, equipo de escalada, rocas relámpago y varas luminosas.",
+      "requirements": "Podría necesitar un montón de mejunjes, cajas con piezas de equipo o uniformes.",
       "theme": "Escondrijo",
       "checkbox1": "",
       "checkbox2": ""
@@ -282,8 +282,8 @@
     },
     "Bestiary": {
       "name": "Cuadra",
-      "description": "Tenéis monturas y una zona segura donde acogerlas. Describidlas y dadles dos ventajas: acorazada, acuática, mágica, rápida, terrorífica, voladora. Esta sala también actúa como una criatura con un nivel igual al de la mazmorra.",
-      "requirements": "Podría necesitar las monturas, su comida, o equipo de equitación.",
+      "description": "Tenéis monturas y una zona segura donde acogerlas. Describidlas y dadles dos ventajas: acorazada, acuática, mágica, rápida, terrorífica o voladora. Esta sala también actúa como una criatura con un nivel igual al de la mazmorra.",
+      "requirements": "Podría necesitar las monturas, su comida o equipo de equitación.",
       "theme": "Fortaleza",
       "checkbox1": "",
       "checkbox2": ""
