@@ -262,7 +262,7 @@
     },
     "Beastform": {
       "name": "Forma de la bestia",
-      "description": "Puedes sufrir estrés para adoptar la forma de una bestia. Mientras estás así transformado, una de tus acciones intercambia su valor con otra y ganas una Capacidad ancestral o una capacidad vocacional de otra clase. También obtienes un segundo impulso oscuro mientras estás en esta forma. Debes determinar todos estos cambios según escoges esta capacidad y son fijos.",
+      "description": "Puedes sufrir estrés para adoptar la forma de una bestia. Mientras estás así transformado, una de tus acciones intercambia su valor con otra y ganas una Capacidad ancestral o una capacidad vocacional de otra clase. También obtienes un segundo impulso oscuro mientras estás en esta forma. Debes elegir estos cambios al adquirir la capacidad y no se pueden cambiar más adelante.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
@@ -1900,7 +1900,7 @@
     },
     "Cohort": {
       "name": "Cohortes",
-      "description": "Tus esbirros son siempre de élite, con las mejoras compañero y mentalidad (leal). También tienen una mejora adicional a elegir entre adiestrados, equipados, mentalidad (intrépido) o versátiles.",
+      "description": "Tus esbirros son siempre de élite, con las mejoras compañero y mentalidad (leal). También tienen una mejora adicional a elegir entre adiestrados, equipados, mentalidad (valiente) o versátiles.",
       "source": "Bandido",
       "checkbox1": "",
       "checkbox2": "",
@@ -2212,7 +2212,7 @@
     },
     "Wrath": {
       "name": "Ira",
-      "description": "El deseo de venganza alimenta tu magia. Cuando lanzas un hechizo inmediatamente después de realizar una tirada de resistencia, ganas +1d e ignoras el primer punto de estrés relacionado con el lanzamiento del hechizo.",
+      "description": "El deseo de venganza alimenta tu magia. Cuando lanzas un hechizo inmediatamente después de realizar una tirada de resistencia, ganas +1d e ignoras el coste de estrés relacionado con el lanzamiento del hechizo.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
@@ -2368,7 +2368,7 @@
     },
     "Bonded Spirit": {
       "name": "Espíritu vinculado",
-      "description": "Tienes un espíritu o manada vinculada mágicamente a ti en lugar de esbirros. Tiene la mejora compañero y dos de los poderes siguientes: manifestarse físicamente, poseer a los débiles de mente, revelar información sobre el pasado y volverse invisible. Puede usarlos una vez cada uno por ciclo.",
+      "description": "Tienes un espíritu o panda vinculada mágicamente a ti en lugar de esbirros. Tiene la mejora compañero y dos de los poderes siguientes: manifestarse físicamente, poseer a los débiles de mente, revelar información sobre el pasado y volverse invisible. Puede usarlos una vez cada uno por ciclo.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
