@@ -308,7 +308,7 @@
       }
     },
     "Example Concotions": {
-      "name": "Mejunjes de ejemplo",
+      "name": "Ejemplos de mejunjes",
       "description": "Junto con su posible efecto e inestabilidad. De la página 121. Nivel 1: 11-26 -- Nivel 2: 31-46 -- Nivel 3: 41-66",
       "results": {
         "11-11": "Vara luminosa: Ilumina una zona como si fuera una antorcha, pero la luz es de un color aleatorio.",
@@ -333,7 +333,7 @@
         "42-42": "Rapidormir: Duerme a alguien al instante, pero solo durante unos momentos.",
         "43-43": "Manos pegajosas: Te permite escalar muros como una araña, pero los objetos normales se te pegan a las manos.",
         "44-44": "Amigador: Si se rocía sobre la cara de alguien, su actitud hacia ti será amistosa, pero hostil hacia tus aliados.",
-        "45-45": "Linimento terrorífico: Causa alucinaciones terribles, pero despierta la ira de quien aplique el ungüento.",
+        "45-45": "Linimento terrorífico: Causa alucinaciones terribles, pero a veces despierta la ira del afectado.",
         "46-46": "Estallido emocional: Provoca que alguien actúe según su emoción más intensa, pero es contagioso.",
         "51-51": "Furia embotellada: Te impide morir hasta que se pasa el efecto, pero no puedes resistir la muerte.",
         "52-52": "Domaluces: Causa que alguien se vuelva completamente invisible, pero provoca también una ceguera parcial.",
@@ -345,12 +345,12 @@
         "62-62": "Bumbum: Crea una explosión lo suficientemente grande como para destruir una casa, pero la explosión se retrasa un tiempo indeterminado.",
         "63-63": "Antorcha antigravitatoria: Invierte la gravedad durante el tiempo que esté ardiendo, pero te mueves con lentitud por la zona.",
         "64-64": "Imanizador: Provoca que cualquier metal bañado con la sustancia adquiera un fuerte magnetismo, pero dicha peculiaridad se activa en momentos aleatorios.",
-        "65-65": "Piedra antimagia: Anula los efectos de la magia de la zona, pero también hace que los efectos de la ciencia de los monstruos fallen.",
+        "65-65": "Piedra antimagia: Anula los efectos mágicos de la zona, pero también hace que los efectos de la ciencia de los monstruos fallen.",
         "66-66": "Abalorio sísmico: La tierra lo absorbe con facilidad y provoca un terremoto, pero se activa solo al agitarlo."
       }
     },
     "Example Contraptions": {
-      "name": "Artilugios de ejemplo",
+      "name": "Ejemplos de artilugios",
       "description": "Junto con su posible efecto e inestabilidad. De la página 123. Nivel 1: 11-26 -- Nivel 2: 31-46 -- Nivel 3: 41-66",
       "results": {
         "11-11": "Encendedor: Prende fuego fácilmente a cualquier material inflamable, pero se rompe con facilidad.",
@@ -370,7 +370,7 @@
         "33-33": "Trampolín portátil: Te permite saltar a una altura mayor de la que normalmente podrías alcanzar, pero es difícil desmontarlo.",
         "34-34": "Antorcha de soldadura: Suelda metal con su ardiente llama, pero te salpica con chispas.",
         "35-35": "Globo de huida: Te levanta por el aire, pero es casi imposible de controlar.",
-        "36-36": "Botas con muelles: Te permiten dar un gran salto, pero para lleva bastante tiempo reintroducir los muelles dentro de la suela.",
+        "36-36": "Botas con muelles: Te permiten dar un gran salto, pero lleva bastante tiempo reintroducir los muelles dentro.",
         "41-41": "Planeador: Te deja controlar tu descenso, pero es sumamente terrorífico.",
         "42-42": "Taladro excavador: Atraviesa rápidamente algunos tipos de roca, pero supone -1d a las tiradas de desastre si lo utilizas en vuestra mazmorra.",
         "43-43": "Guantes pegajosos: Te permiten escalar una pared, pero solo son fiables si los empleas para subir.",
@@ -494,7 +494,7 @@
         "31-31": "Terror: Crea una ilusión de pesadilla allí donde se derrame la poción…, ¡pero es tu propia pesadilla!",
         "32-32": "Aliento flamígero: Escupes fuego como un dragón, pero quema tu equipo.",
         "33-33": "Patas de araña: Te proporciona patas de araña con las que puedes trepar por las paredes, pero también un hambre atroz.",
-        "34-34": "Portáltil: Atraviesa una pared para crear de forma instantánea un agujero, pero desaparece enseguida.",
+        "34-34": "Portáltil: Al romperla en una pared, crea de forma instantánea un agujero, pero desaparece enseguida.",
         "35-35": "Turbo: Duplica tu velocidad, pero es muy, muy difícil parar.",
         "36-36": "Parpadeo: Te protege de las flechas, pero al usar esta defensa, te teletransportas a un lugar aleatorio que esté cerca.",
         "41-41": "Brebaje de Dalgeth: Quien beba esta poción creerá que todo lo que oye es falso, pero después del efecto, se percatará de lo sucedido.",
