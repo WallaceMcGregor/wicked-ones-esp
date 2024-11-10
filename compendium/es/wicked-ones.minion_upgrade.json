@@ -74,7 +74,7 @@
     },
     "Strapped": {
       "name": "Pertrechados",
-      "description": "Los esbirros tienen un espacio más de inventario que se puede utilizar para acceder a cualquier cosa de la que tengas suministro.",
+      "description": "Los esbirros tienen un espacio más de suministro que se puede utilizar para acceder a cualquier cosa de la que tengas suministro.",
       "checkbox1": "Utilizado",
       "checbox2": ""
     },
