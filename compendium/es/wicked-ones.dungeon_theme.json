@@ -42,9 +42,9 @@
     },
     "Enclave": {
       "name": "Enclave",
-      "description": "Un enclave está impregnado de magia. La energía arcana flota en el aire, en las paredes hay runas garabateadas y hasta el más humilde de los esbirros puede tener un mínimo de aptitud mágica. Elegid esta temática si queréis que vuestra mazmorra tenga sabor místico desde los pies a la cabeza.",
+      "description": "Un enclave está impregnado de magia. La energía arcana flota en el aire, en las paredes hay runas garabateadas y hasta el más humilde de los esbirros puede tener un mínimo de aptitud mágica. Elegid esta temática si queréis que vuestra mazmorra tenga sabor místico de los pies a la cabeza.",
       "specialTrait": "Alterar el paisaje",
-      "specialDescription": "La energía arcana corrompe la zona que rodea a la mazmorra. Estableced su rango, que aumenta con cada nivel, y cómo se manifiesta (elegir tres rasgos): ilusiones, inclemencias climáticas, fuegos fatuos, naturaleza corrupta, plantas conscientes, susurros oscuros. Actúan como una trampa y un truco igual al nivel de la mazmorra contra los invasores.",
+      "specialDescription": "La energía arcana corrompe la zona que rodea a la mazmorra. Estableced su rango, que aumenta con cada nivel, y cómo se manifiesta (elegir tres rasgos): ilusiones, inclemencias climáticas, fuegos fatuos, naturaleza corrupta, plantas conscientes o susurros oscuros. Actúan como una trampa y un truco con un nivel igual al de la mazmorra contra los invasores.",
       "checkbox1": "",
       "checkbox2": ""
     }
