@@ -41,7 +41,7 @@
       "dungeon_theme": "Temática de la Mazmorra",
       "tier3room": "Sala de Nivel 3",
       "dungeon_reputation": "Reputación de la Mazmorra",
-      "dungeon_ability": "Capacidad de la Mazmorra"
+      "dungeon_ability": "Característica de la Mazmorra"
     }
   },
   "ACTOR": {
@@ -106,7 +106,7 @@
     "IsPrimalMonsterHint": "Márcalo en caso de que sea un monstruo ancestral",
     "IsUACalling": "Vocación de Undead Awakening",
     "IsUACallingHint": "Márcalo en caso de que sea una Vocación de Undead Awakening",
-    "IsUAAbilityHint": "Márcalo en caso de que sea una Capacidad for Undead Awakening",
+    "IsUAAbilityHint": "Márcalo en caso de que sea una Capacidad de Undead Awakening",
     "Number": "Número",
     "Impulse": "Impulsos Oscuros",
     "AddImpulse": "Añadir Impulso",
@@ -120,12 +120,12 @@
     "MinionPack": "Panda de esbirros",
     "VileFriend": "Amigo vil",
     "UA_Job": "Job",
-    "LessEffect": "Less Effect",
+    "LessEffect": "Efecto reducido",
     "Description": "Descripción",
     "DescriptionHint": "Introduce una breve descripción...",
     "Loadout": "Equipo y Suministros",
     "GearOrSupply": "Equipo o Suministros",
-    "QualityCategory": "Quality Category",
+    "QualityCategory": "Categorías de objetos",
     "Mundane": "Mundano",
     "Valuable": "Valioso",
     "Powerful": "Poderoso",
@@ -159,8 +159,8 @@
     "Hoard": "Tesoro",
     "HoardHints": "¿Qué compone vuestro tesoro?",
     "Imps": "Duendes",
-    "ImpsHints1": "Elegid dos de las características que vienen a continuación o inventaros otras para describirlos:",
-    "ImpsHints2": "Ariscos - Arteros - Chalados - Cobardes - Crueles - Estúpidos - Problemáticos - Ruidosos",
+    "ImpsHints1": "Debéis darles dos de los siguientes rasgos (también podéis inventar otros) con el fin de facilitar su presencia en las escenas:",
+    "ImpsHints2": "Ariscos - Chalados - Cobardes - Crueles - Estúpidos - Ingeniosos - Problemáticos - Ruidosos",
     "TierThreeRooms": "Salas de Nivel 3",
     "DungeonDescription": "Descripción de la Mazmorra",
     "MasterPlan": "Plan maestro",
@@ -206,9 +206,9 @@
       "Shock": "-1D a la siguiente tirada. Después, se elimina. (Calculado automáticamente en la tirada)",
       "DarkHeart": "Obtienes +1D en una tirada.<br><strong>Golpe de gracia:</strong> Cuando vas a morir y aún te queda algún corazón oscuro disponible, puedes hacer una última acción. Añades +1D por cada corazón oscuro que te quede. Cada aliado que te esté mirando obtiene un corazón oscuro.",
       "Essence": "Obtienes +1D en una tirada.<br><strong>Golpe de gracia:</strong> Cuando vas a morir y aún te queda esencia, puedes hacer una última acción. Añades +1D a la tirada por cada esencia que te quede. Cada aliado que te esté mirando obtiene una esencia.",
-      "Bloodied": "Recibes de inmediato una <strong>conmoción</strong> en todos los atributos y permaneces reventado hasta que <strong>odas se eliminen</strong>. Si recibes otra herida seria durante este tiempo, <strong>morirás</strong>.",
+      "Bloodied": "Recibes de inmediato una <strong>conmoción</strong> en todos los atributos y permaneces reventado hasta que <strong>todas se eliminen</strong>. Si recibes otra herida seria durante este tiempo, <strong>morirás</strong>.",
       "BloodiedMinions": "Tienen -1D a todas las tiradas cuando están reventados y solo dejan de estarlo durante la fase de recuperación",
-      "Morale": "Puedes gastar moral para añadir +1D a una acción o tirada de fortuna. Normalmente se ganan moral a través de tiradas de calamidad, pero el DJ también puede recompensar con moral en momentos puntuales de la historia",
+      "Morale": "Puedes gastar moral para añadir +1D a una acción o tirada de fortuna. Normalmente se gana moral a través de tiradas de calamidad, pero el DJ también puede recompensar con moral en momentos puntuales de la historia",
       "LightTongue": "<div id='tongue-grid'><div>Conoces las siguientes palabras sueltas de lengua de la luz:</div><div>Tú</div><div>Uno</div><div>Sí</div><div>Vamos</div><div>Comer</div><div>Yo</div><div>Dos</div><div>No</div><div>Hacer</div><div>Dar</div><div>Nosotros</div><div>Tres</div><div>Quizás</div><div>Parar</div><div>Conseguir</div><div>Eso</div><div>Más</div><div>Ahora</div><div>Matar</div><div>Oro</div></div>",
       "GMSize": "Cuando el nivel de la mazmorra aumenta, añades un punto de acción y avanzas un paso en dos rutas de crecimiento distintas. También aumentas de tamaño.",
       "GMSize0": "En nivel 0, no eres más que una cría diminuta y los humanoides tienen ventaja contra ti.",
@@ -777,7 +777,7 @@
       "Trick": "Truco",
       "HINT": {
         "CreaturePrompt": "Describe un monstruo carente de inteligencia y dos rasgos:",
-        "CreatureParagraph": "ardiente, astuta, corrosiva, corrupta, fuerte, incansable, incorpórea, heladora, horda, infecciosa, mágica, sigilosa, terrorífica, venenosa, viscosa.",
+        "CreatureParagraph": "ardiente, astuta, corrosiva, corrupta, fuerte, heladora, horda, incansable, incorpórea, infecciosa, mágica, sigilosa, terrorífica, venenosa, viscosa.",
         "LockPrompt": "Describe el material del que está hecha la puerta y el mecanismo de cierre",
         "LockParagraph1": "<strong>Materiales de la puerta</strong>: barrotes, campo mágico, cristal, hielo, hierro, hueso, madera, piedra, raíces.",
         "LockParagraph2": "<strong>Mecanismos de cierre</strong>: arcano, barra, candado, cerradura de aro, cerrojo, contraseña, muescas, objeto pesado, placa de presión, polea, rompecabezas, temporizador.",
@@ -843,7 +843,7 @@
       "PHASE1": {
         "Name": "Recuperación",
         "Hint1": "Se elimina todo el estrés, conmociones y la condición de reventado.",
-        "Hint2": "Se eliminan los espacios de suministro y defensas usadas.",
+        "Hint2": "Se restablecen los espacios de suministro y defensas usadas.",
         "Hint3": "Se reinician las habilidades, los objetos y las salas que son de un uso por ciclo",
         "Hint4": "Si hay alguna guarida desocupada, la mazmorra atrae a una criatura en la de menor nivel.",
         "Hint5": "La recuperación se produce tras las invasiones causadas por la represalia."
@@ -875,7 +875,7 @@
       },
       "PHASE5": {
         "Name": "Tirada de desastre",
-        "Hint1": "El DJ tira 1D, 2D o 3D según la cantidad de residentes descontentos de vuestra mazmorra.",
+        "Hint1": "El DJ tira 1D, 2D o 3D según la cantidad de habitantes descontentos de vuestra mazmorra.",
         "Hint2": "Los desastres típicos pueden ser invasiones débiles o normales, problemas con los habitantes o estructurales o interferencia del exterior."
       },
       "PHASE6": {
@@ -888,7 +888,7 @@
       },
       "PHASE7": {
         "Name": "Meta + Objetivo",
-        "Hint1": "Los jugadores proponen un objetivo que alcanzar. Cuando surjan indecisiones o disputas, haz una lucha de poder para resolverlo.",
+        "Hint1": "Los jugadores proponen un objetivo a alcanzar. Cuando surjan indecisiones o disputas, haz una lucha de poder para resolverlo.",
         "Hint2": "Los jugadores buscan un objetivo que tenga sentido para su meta.",
         "Hint3": "Los objetivos pertenecen a las facciones: son una pequeña parte de todo lo que es la facción en sí.",
         "Hint4": "Estáis en igualdad de condiciones con las facciones de vuestro nivel.  Golpear objetivos de igual o mayor nivel da más botín.",
