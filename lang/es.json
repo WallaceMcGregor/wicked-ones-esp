@@ -38,7 +38,7 @@
       "minionimpulse": "Impulso Oscuro del esbirro",
       "revelry": "Juerga",
       "dungeon_upgrade": "Mejora de Mazmorra",
-      "dungeon_theme": "Tema de la Mazmorra",
+      "dungeon_theme": "Temática de la Mazmorra",
       "tier3room": "Sala de Nivel 3",
       "dungeon_reputation": "Reputación de la Mazmorra",
       "dungeon_ability": "Capacidad de la Mazmorra"
@@ -76,7 +76,7 @@
     "TypeMinionimpulse": "Impulso Oscuro del esbirro",
     "TypeRevelry": "Juerga",
     "TypeDungeon_upgrade": "Mejora de Mazmorra",
-    "TypeDungeon_theme": "Tema de la Mazmorra",
+    "TypeDungeon_theme": "Temática de la Mazmorra",
     "TypeTier3room": "Sala de Nivel 3",
     "TypeDungeon_reputation": "Reputación de la Mazmorra",
     "TypeDungeon_ability": "Capacidad de la Mazmorra"
@@ -142,7 +142,7 @@
     "Supply": "Suministros",
     "SupplySecretions": "Suministros y Secreciones",
     "SupplyTrophies": "Trofeos",
-    "DungeonTheme": "Tema de la Mazmorra",
+    "DungeonTheme": "Temática de la Mazmorra",
     "RoomRequirements": "Requisistos de ejemplo",
     "MissingMaterials": "La sala carece de materiales",
     "MissingMaterialsHint": "Esta habitación carece de materiales para funcionar",
