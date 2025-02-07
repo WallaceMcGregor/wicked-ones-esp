@@ -49,8 +49,8 @@
       "checkbox2": ""
     },
     "Spawning Chamber": {
-      "name": "Cubil de engendros",
-      "description": "En esta sala se invocan o se crían esbirros con el fin de reemplazar con facilidad vuestras bajas. Una vez en cada defensa de la mazmorra, esta cámara creará una copia de una panda de esbirros muertos. También puedes aplicar la mejora prescindibles a los esbirros de forma gratuita.",
+      "name": "Cubil de los engendros",
+      "description": "En esta sala se invocan o se crían esbirros con el fin de reemplazar con facilidad vuestras bajas. Una vez en cada defensa de la mazmorra, esta cámara creará una copia de una panda de esbirros muertos. También podéis aplicar la mejora prescindibles a los esbirros de forma gratuita.",
       "requirements": "Podría necesitar limo místico, recipientes de vidrio o semillas mágicass.",
       "theme": "Enclave",
       "checkbox1": "Utilizada",
@@ -66,7 +66,7 @@
     },
     "Workshop": {
       "name": "Taller",
-      "description": "Tenéis un taller muy bien amueblado donde vuestros duendes y esbirros pueden trabajar. Al crear o construir proyectos, ganan +1d.",
+      "description": "Tenéis un taller muy bien amueblado donde vuestros duendes y esbirros pueden trabajar. Ganan +1d en los proyectos de construcción y fabricación.",
       "requirements": "Podría necesitar herramientas de artesanía, delantales de cuero o barriles llenos de clavos.",
       "theme": "Forja",
       "checkbox1": "",
@@ -98,7 +98,7 @@
     },
     "Academy": {
       "name": "Academia",
-      "description": "Los monstruos jóvenes acuden a estudiar y aprender sobre los secretos arcanos. Se pueden reclutar esbirros en esta sala. Su acción primaria es Invocar y cuentan con la mejora adeptos de forma gratuita. Esta sala también actúa como una criatura con un nivel igual al de la mazmorra.",
+      "description": "Los monstruos jóvenes acuden a estudiar y aprender sobre los secretos arcanos. Podéis reclutar esbirros en esta sala. Su acción primaria es Invocar y cuentan con la mejora adeptos de forma gratuita. Esta sala también actúa como una criatura con un nivel igual al de la mazmorra.",
       "requirements": "Podría necesitar bolas de cristal, túnicas o varitas.",
       "theme": "Enclave",
       "checkbox1": "",
@@ -122,7 +122,7 @@
     },
     "Crucible": {
       "name": "Crisol",
-      "description": "El poder místico de esta sala hechiza objetos. Durante cada fase de descanso, podéis fabricar un objeto mágico de nivel 1 o avanzar dos segmentos de un reloj de creación de objeto mágico. Aún debéis cumplir con requisitos especiales de los objetos de nivel 2 y 3.",
+      "description": "El poder místico de esta sala hechiza objetos. Durante cada fase de descanso, puede fabricar un objeto mágico de nivel 1 o avanzar dos segmentos de un reloj de creación de objeto mágico. Aún debéis cumplir con requisitos especiales de los objetos de nivel 2 y 3.",
       "requirements": "Podría necesitar un núcleo de esencia, una bestia mítica o ayudantes mágicos.",
       "theme": "Enclave",
       "checkbox1": "Utilizada",
