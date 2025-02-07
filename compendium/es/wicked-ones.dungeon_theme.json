@@ -10,7 +10,7 @@
   "entries": {
     "Forge": {
       "name": "Forja",
-      "description": "La forja se crea para producir: en este complejo encontrarás inventos, fábricas, máquinas de vapor y alquimia. Los problemas se abordan con ingenio, motivación y una profunda indiferencia hacia el peligro. CElegid esta temática si queréis una mazmorra repleta de inventos monstruosos y tecnología steampunk.",
+      "description": "La forja se crea para producir: en este complejo encontrarás inventos, fábricas, máquinas de vapor y alquimia. Los problemas se abordan con ingenio, motivación y una profunda indiferencia hacia el peligro. Elegid esta temática si queréis una mazmorra repleta de inventos monstruosos y tecnología steampunk.",
       "specialTrait": "Fuente de energía",
       "specialDescription": "En una forja, vuestro santuario es una fuente de poder que proporciona energía a la mazmorra: un volcán, una máquina de vapor o una rueda hidráulica. Durante la fase de descanso, añadís +1d a una única acción de dicha fase. Durante la defensa de la mazmorra, añadís +1d a un portón, una trampa o un truco de vuestra lista de labores.",
       "checkbox1": "",
@@ -18,9 +18,9 @@
     },
     "Hideout": {
       "name": "Escondrijo",
-      "description": "Un escondrijo es un lugar para mantener un perfil bajo y desde donde el que vigilar los alrededores. Pasar desapercibidos es vuestra principal preocupación: vivís y trabajáis entre las sombras. El trabajo en equipo y la eficiencia son la clave de vuestro éxito. Elegid esta temática si queréis actuar como una unidad cohesionada y manipular las otras facciones de la región.",
+      "description": "Un escondrijo es un lugar para mantener un perfil bajo y desde donde el que vigilar los alrededores. Pasar desapercibidos es vuestra principal preocupación: vivís y trabajáis entre las sombras. El trabajo en equipo y la eficiencia son la clave de vuestro éxito. Elegid esta temática si queréis actuar como una unidad cohesionada y manipular a las otras facciones de la región.",
       "specialTrait": "Agentes del caos",
-      "specialDescription": "Vuestra mazmorra destaca por su capacidad para encontrar chivos expiatorios o entrometerse en los planes de las demás facciones. Con un éxito en una tirada de represalia, aumenta la moral de vuestros esbirros y podéis acabar o reiniciar un reloj de facción. ¿Qué sucede después de vuestra incursión para que ocurra esto?",
+      "specialDescription": "Vuestra mazmorra destaca por su capacidad para encontrar chivos expiatorios o entrometerse en los planes de las demás facciones. Con un éxito en una tirada de represalia, aumenta la moral de vuestros esbirros y podéis completar o reiniciar un reloj de facción. ¿Qué sucede después de vuestra incursión para que ocurra esto?",
       "checkbox1": "",
       "checkbox2": ""
     },
@@ -36,13 +36,13 @@
       "name": "Fortaleza",
       "description": "Una fortaleza es una sede de poder desde la que podéis comandar a vuestras tropas. Proyectáis vuestra autoridad a través del poder militar. Elegid esta temática si queréis enfrentaros a los desafíos mediante el poder militar en bruto.",
       "specialTrait": "Banda de guerra",
-      "specialDescription": "La mazmorra cuenta con una unidad de incursión, un grupo compartido de esbirros con mayor número de integrantes de lo habitual y las mejoras de compañero y prescindibles, que podéis enviar a sus propias incursiones. Al principio de la fase de incursión, cada jugador asigna 1d a un objetivo, elige un plan y, a continuación, selecciona un objetivo: hacerse con un gran botín - influir en una facción - preparar un saqueo - reunir materiales para una sala - secuestrar a alguien. También podéis elegir el mismo plan y objetivo para combinar las tiradas y determinar su eficacia. Haced una tirada de fortuna por cada objetivo, lanzando el número de dados asignado y narrad lo que ocurre. Si renunciáis a estas incursiones independientes, la banda de guerra puede acompañaros en vuestra incursión.",
+      "specialDescription": "La mazmorra cuenta con una unidad de incursión, una panda de esbirros compartida con mayor número de integrantes de lo habitual y las mejoras de compañero y prescindibles, que podéis enviar a sus propias incursiones. Al principio de la fase de incursión, cada jugador asigna 1d a un objetivo, elige un plan y, a continuación, selecciona un propósito: hacerse con un botín importante, influir en una facción, preparar un saqueo, reunir materiales para una sala o secuestrar a alguien. También podéis elegir el mismo plan y propósito para combinar las tiradas y determinar su eficacia. Haced una tirada de fortuna por cada objetivo, lanzando el número de dados asignado y narrad lo que ocurre. Si renunciáis a estas incursiones independientes, la banda de guerra puede acompañaros en vuestra incursión.",
       "checkbox1": "",
       "checkbox2": ""
     },
     "Enclave": {
       "name": "Enclave",
-      "description": "Un enclave está impregnado de magia. La energía arcana flota en el aire, en las paredes hay runas garabateadas y hasta el más humilde de los esbirros puede tener un mínimo de aptitud mágica. Elegid esta temática si queréis que vuestra mazmorra tenga sabor místico de los pies a la cabeza.",
+      "description": "Un enclave está impregnado de magia. La energía arcana flota en el aire, en las paredes hay runas garabateadas y hasta el más humilde de los esbirros puede tener un mínimo de aptitud mágica. Elegid esta temática si queréis que vuestra mazmorra tenga sabor místico de arriba abajo.",
       "specialTrait": "Alterar el paisaje",
       "specialDescription": "La energía arcana corrompe la zona que rodea a la mazmorra. Estableced su rango, que aumenta con cada nivel, y cómo se manifiesta (elegir tres rasgos): ilusiones, inclemencias climáticas, fuegos fatuos, naturaleza corrupta, plantas conscientes o susurros oscuros. Actúan como una trampa y un truco con un nivel igual al de la mazmorra contra los invasores.",
       "checkbox1": "",
