@@ -22,7 +22,7 @@
       "command": "const SKILL_NAME = \"invoke\";\nmain();\n\nasync function main() {\n\n  if (actor == null) {\n    ui.notifications.error(game.i18n.localize(\"FITD.ERRORS.NoActorAssigned\"));\n    return;\n  }\n  actor.rollAttributePopup(SKILL_NAME);\n}"
     },
     "Roll Threaten": {
-      "name": "Tirada de Amenazar",
+      "name": "Tirada de Intimidar",
       "command": "const SKILL_NAME = \"threaten\";\nmain();\n\nasync function main() {\n\n  if (actor == null) {\n    ui.notifications.error(game.i18n.localize(\"FITD.ERRORS.NoActorAssigned\"));\n    return;\n  }\n  actor.rollAttributePopup(SKILL_NAME);\n}"
     },
     "Roll Banter": {
