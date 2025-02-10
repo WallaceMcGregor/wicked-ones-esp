@@ -50,7 +50,7 @@
     },
     "Invocation Path": {
       "name": "Senda de Invocar",
-      "description": "Si les dais la acción Invocar, también debéis elegir la senda mágica de sus hechizos (y solo podrán lanzar hechizos de nivel 0 y 1 de esa misma senda).",
+      "description": "Si les dais la acción Invocar, también debéis elegir la senda mágica de sus conjuros (y solo podrán lanzar conjuros de nivel 0 y 1 de esa misma senda).",
       "checkbox1": "",
       "checbox2": ""
     },
@@ -104,7 +104,7 @@
     },
     "Adept": {
       "name": "Adeptos",
-      "description": "Una vez por ciclo de juego, el grupo de esbirros puede lanzar un hechizo de nivel 2. Tiran con -1d, como es normal, pero no sufren estrés.",
+      "description": "Una vez por ciclo de juego, el grupo de esbirros puede lanzar un conjuro de nivel 2. Tiran con -1d, como es normal, pero no sufren estrés.",
       "checkbox1": "Utilizado",
       "checbox2": ""
     }
