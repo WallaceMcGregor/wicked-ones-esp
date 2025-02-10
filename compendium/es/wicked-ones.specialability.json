@@ -28,7 +28,7 @@
   "entries": {
     "Familiar": {
       "name": "Familiar",
-      "description": "Estás vinculado mágicamente a una pequeña alimaña cuyo tamaño no puede superar el de un gato. Podéis hablar mediante telepatía cuando se encuentre cerca de ti. Elige dos acciones en las que destaque, que puedes resolver con tu propio valor en Invocación. Tira 0d en cualquier otra cosa. Si alguien lo revienta, quedará eliminado de la escena, pero se recuperará mágicamente durante la siguiente recuperación. Puedes sufrir estrés para lanzar un hechizo de nivel 1 a través de tu familiar",
+      "description": "Estás vinculado mágicamente a una pequeña alimaña cuyo tamaño no puede superar el de un gato. Podéis hablar mediante telepatía cuando se encuentre cerca de ti. Elige dos acciones en las que destaque, que puedes resolver con tu propio valor en Invocación. Tira 0d en cualquier otra cosa. Si alguien lo revienta, quedará eliminado de la escena, pero se recuperará mágicamente durante la siguiente recuperación. Puedes sufrir estrés para lanzar un conjuro de nivel 1 a través de tu familiar",
       "source": "Hechicero",
       "checkbox1": "Familiar eliminado",
       "checkbox2": "",
@@ -470,7 +470,7 @@
     },
     "Overload": {
       "name": "Sobrecarga",
-      "description": "Canalizas enormes cantidades de poder a través de tu cuerpo. Ganas +1d cuando lo das todo con un hechizo, pero no puedes resistir ninguna consecuencia de la tirada. Si consigues un crítico, también recuperas un punto de estrés..",
+      "description": "Canalizas enormes cantidades de poder a través de tu cuerpo. Ganas +1d cuando lo das todo con un conjuro, pero no puedes resistir ninguna consecuencia de la tirada. Si consigues un crítico, también recuperas un punto de estrés..",
       "source": "Hechicero",
       "checkbox1": "",
       "checkbox2": "",
@@ -730,7 +730,7 @@
     },
     "Reaper": {
       "name": "Segador",
-      "description": "Cuando asestas un golpe mortal con un arma, cosechas el alma de tu víctima. Puedes gastar esta alma más adelante para lanzar un hechizo sin sufrir estrés y, además, también ganas +1d a la tirada. Solo puedes atrapar un alma así segada simultáneamente.",
+      "description": "Cuando asestas un golpe mortal con un arma, cosechas el alma de tu víctima. Puedes gastar esta alma más adelante para lanzar un conjuro sin sufrir estrés y, además, también ganas +1d a la tirada. Solo puedes atrapar un alma así segada simultáneamente.",
       "source": "Hechicero",
       "checkbox1": "Alma segada",
       "checkbox2": "",
@@ -834,7 +834,7 @@
     },
     "Sorcery": {
       "name": "Hechicería",
-      "description": "Dominas una senda mágica de las siguientes: Encantamiento, Evocación, Fuerzas, Ilusión, Nigromancia y Piromancia. Puedes sufrir estrés para Invocar hechizos de nivel 2 y 3 de tu senda.",
+      "description": "Dominas una senda mágica de las siguientes: Encantamiento, Evocación, Fuerzas, Ilusión, Nigromancia y Piromancia. Puedes sufrir estrés para Invocar conjuros de nivel 2 y 3 de tu senda.",
       "source": "Hechicero",
       "checkbox1": "",
       "checkbox2": "",
@@ -990,7 +990,7 @@
     },
     "Psionics": {
       "name": "Psiónica",
-      "description": "Psiónica: Debes sufrir estrés para manifestar poderes de nivel 2 y 3, y sufres las penalizaciones de dados apropiadas como si estuvieses lanzando un hechizo.",
+      "description": "Psiónica: Debes sufrir estrés para manifestar poderes de nivel 2 y 3, y sufres las penalizaciones de dados apropiadas como si estuvieses lanzando un conjuro.",
       "source": "Devoramentes",
       "checkbox1": "",
       "checkbox2": "",
@@ -1068,7 +1068,7 @@
     },
     "Smite": {
       "name": "Aniquilar",
-      "description": "Designa un arma como tu arma impía. A partir de ahora es tu foco mágico. Con un éxito al atacar con ella, puedes sufrir estrés para afectar de inmediato al objetivo con un hechizo de nivel 1 sin necesidad de hacer más tiradas.",
+      "description": "Designa un arma como tu arma impía. A partir de ahora es tu foco mágico. Con un éxito al atacar con ella, puedes sufrir estrés para afectar de inmediato al objetivo con un conjuro de nivel 1 sin necesidad de hacer más tiradas.",
       "source": "Fanático",
       "checkbox1": "",
       "checkbox2": "",
@@ -1172,7 +1172,7 @@
     },
     "Eye Rays": {
       "name": "Rayos oculares",
-      "description": "Tus ojos disparan rayos mágicos que actúan como una senda mágica muy limitada. Puedes lanzar hechizos de nivel 1 con ellos y también puedes sufrir estrés para lanzar un hechizo de nivel 2 (aunque con -1d en la tirada, como siempre). Sin embargo, no puedes lanzar hechizos de nivel 3.",
+      "description": "Tus ojos disparan rayos mágicos que actúan como una senda mágica muy limitada. Puedes lanzar conjuros de nivel 1 con ellos y también puedes sufrir estrés para lanzar un conjuro de nivel 2 (aunque con -1d en la tirada, como siempre). Sin embargo, no puedes lanzar conjuros de nivel 3.",
       "source": "Perdición",
       "checkbox1": "",
       "checkbox2": "",
@@ -1380,7 +1380,7 @@
     },
     "Weaving": {
       "name": "Encantamiento",
-      "description": "Mezclas sin esfuerzo la brujería con lo material o mundano. Con un éxito al lanzar un hechizo, además ganas +1d a la siguiente acción que lleves a cabo inmediatamente después.",
+      "description": "Mezclas sin esfuerzo la brujería con lo material o mundano. Con un éxito al lanzar un conjuro, además ganas +1d a la siguiente acción que lleves a cabo inmediatamente después.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
@@ -1874,7 +1874,7 @@
     },
     "Witchcraft": {
       "name": "Brujería",
-      "description": "Dominas una senda mágica, a elegir entre Adivinación, Control climático, Corazón salvaje, Espiritismo y Hemoteurgia. Puedes sufrir estrés para Invocar hechizos de nivel 2 y 3 de tu senda.",
+      "description": "Dominas una senda mágica, a elegir entre Adivinación, Control climático, Corazón salvaje, Espiritismo y Hemoteurgia. Puedes sufrir estrés para Invocar conjuros de nivel 2 y 3 de tu senda.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
@@ -1952,7 +1952,7 @@
     },
     "Grand Sorcery": {
       "name": "Hechicería avanzada",
-      "description": "Selecciona una segunda senda entre las indicadas tu capacidad principal Hechicería y puedes lanzar hechizos de cualquier senda de hechicería con un solo foco mágico.",
+      "description": "Selecciona una segunda senda entre las indicadas tu capacidad principal Hechicería y puedes lanzar conjuros de cualquier senda de hechicería con un solo foco mágico.",
       "source": "Hechicero",
       "checkbox1": "",
       "checkbox2": "",
@@ -2056,7 +2056,7 @@
     },
     "Counterspell": {
       "name": "Contrahechizo",
-      "description": "Con un éxito al resistir efectos mágicos, también logras (elige una)... absorber el hechizo y recuperar un punto de estrés, establecer una peculiaridad sobre el poder del otro lanzador o reflejar el hechizo de vuelta a su lanzador.",
+      "description": "Con un éxito al resistir efectos mágicos, también logras (elige una)... absorber el conjuro y recuperar un punto de estrés, establecer una peculiaridad sobre el poder del otro lanzador o reflejar el hechizo de vuelta a su lanzador.",
       "source": "Hechicero",
       "checkbox1": "",
       "checkbox2": "",
@@ -2212,7 +2212,7 @@
     },
     "Wrath": {
       "name": "Ira",
-      "description": "El deseo de venganza alimenta tu magia. Cuando lanzas un hechizo inmediatamente después de realizar una tirada de resistencia, ganas +1d e ignoras el coste de estrés relacionado con el lanzamiento del hechizo.",
+      "description": "El deseo de venganza alimenta tu magia. Cuando lanzas un conjuro inmediatamente después de realizar una tirada de resistencia, ganas +1d e ignoras el coste de estrés relacionado con el lanzamiento del conjuro.",
       "source": "Chamán",
       "checkbox1": "",
       "checkbox2": "",
@@ -2784,7 +2784,7 @@
     },
     "Channeling": {
       "name": "Canalización",
-      "description": "Puedes sufrir estrés para Invocar hechizos de nivel 2 y 3 de los dominios de la deidad que elijas. Cada dios tiene dos dominios que actúan como sendas mágicas.",
+      "description": "Puedes sufrir estrés para Invocar conjuros de nivel 2 y 3 de los dominios de la deidad que elijas. Cada dios tiene dos dominios que actúan como sendas mágicas.",
       "source": "Fanático",
       "checkbox1": "",
       "checkbox2": "",
