@@ -28,7 +28,7 @@
       "name": "Templo",
       "description": "Un templo es un monumento impío a un dios oscuro. Veneráis sus dominios mientras trazáis un plan maestro de acuerdo a sus deseos. A menudo, el templo recurre a los rituales con el fin de avanzar hacia sus objetivos. Elegid esta temática si queréis centraros en un dios concreto y sus dominios.",
       "specialTrait": "Intervención divina",
-      "specialDescription": "Una vez por ciclo, un miembro de la mazmorra puede rogarle a la deidad de la mazmorra para lanzar un hechizo de nivel 3 de sus dominios. Utilizáis el nivel de la mazmorra para determinar el número de dados a tirar, pero la tirada de acción no sufre penalizaciones de dados por el nivel del hechizo. El DJ determina quién se expone a las consecuencias.",
+      "specialDescription": "Una vez por ciclo, un miembro de la mazmorra puede rogarle a la deidad de la mazmorra para lanzar un conjuro de nivel 3 de sus dominios. Utilizáis el nivel de la mazmorra para determinar el número de dados a tirar, pero la tirada de acción no sufre penalizaciones de dados por el nivel del conjuro. El DJ determina quién se expone a las consecuencias.",
       "checkbox1": "Utilizada",
       "checkbox2": ""
     },
