@@ -887,12 +887,12 @@
         "Hint5": "Un desastre grave es un problema apremiante que hay que solucionar."
       },
       "PHASE7": {
-        "Name": "Meta + Objetivo",
+        "Name": "Propósito + Objetivo",
         "Hint1": "Los jugadores proponen un objetivo a alcanzar. Cuando surjan indecisiones o disputas, haz una lucha de poder para resolverlo.",
-        "Hint2": "Los jugadores buscan un objetivo que tenga sentido para su meta.",
+        "Hint2": "Los jugadores buscan un objetivo que tenga sentido para su propósito.",
         "Hint3": "Los objetivos pertenecen a las facciones: son una pequeña parte de todo lo que es la facción en sí.",
         "Hint4": "Estáis en igualdad de condiciones con las facciones de vuestro nivel.  Golpear objetivos de igual o mayor nivel da más botín.",
-        "Hint5": "El DJ decide qué tipo de escena de incursión tiene sentido. Cuando la meta no es muy difícil, puede centrarse en el método (dificultad a la hora de acercarse al objetivo) o la huida (dificultad a la hora de marcharse de la zona)."
+        "Hint5": "El DJ decide qué tipo de escena de incursión tiene sentido. Cuando el propósito no es muy difícil, puede centrarse en el acercamiento (dificultad a la hora de aproximarse al objetivo) o la huida (dificultad a la hora de marcharse de la zona)."
       },
       "PHASE8": {
         "Name": "Plan + Detalles",
@@ -900,7 +900,7 @@
         "Hint2": "Asalto: Emplead toda vuestra fuerza, ahuyentando o asesinando a todos los que se oponen a vosotros. ¿Dónde comienza el asalto? ¿Quién lidera el asalto? ¿Evitáis objetivos concretos?",
         "Hint3": "Emboscada: Atacad cuando menos se lo esperan, procurando que no derroten a ninguno de vosotros en el proceso. ¿Por qué tienen la guardia baja? ¿Dónde estáis esperando? ¿Cuál es la señal?",
         "Hint4": "Engaño: Confundid, embaucad, o engañad a vuestro objetivo para que haga lo que queráis, sin revelar la verdad hasta que sea demasiado tarde. ¿Qué queréis que haga vuestro objetivo? ¿Por qué lo harían? ¿Importa si se enteran de la verdad después?",
-        "Hint5": "Golpe: Entrad a la fuerza, conseguid lo que queréis y escapad rápido, sin desviaros de vuestra meta. ¿Cómo entráis? ¿Quién hace las señas para salir? ¿Qué es lo que custodia vuestro premio?",
+        "Hint5": "Golpe: Entrad a la fuerza, conseguid lo que queréis y escapad rápido, sin desviaros de vuestro propósito. ¿Cómo entráis? ¿Quién hace las señas para salir? ¿Qué es lo que custodia vuestro premio?",
         "Hint6": "Negociación: Hablad, contad mentiras u ofreced algo para conseguir lo que queréis, derramando la menor cantidad de sangre que sea posible. ¿Dónde es el lugar de encuentro? ¿Qué ofrecéis? ¿Vais de buena fe?",
         "Hint7": "Sigilo: Infiltraros, encontrad aquello que buscáis y escabulliros en silencio, sin que os detecten. ¿Dónde os infiltráis? ¿Qué hora es? ¿Os dispersáis o vais todos juntos?"
       },
