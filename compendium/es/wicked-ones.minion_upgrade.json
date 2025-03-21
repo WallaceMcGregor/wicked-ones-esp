@@ -38,7 +38,7 @@
     },
     "Bonded Spirit": {
       "name": "Espíritu vinculado",
-      "description": "Tienes un espíritu o manada vinculada mágicamente a ti en lugar de esbirros. Tiene la mejora compañero y dos de los poderes siguientes: manifestarse físicamente, poseer a los débiles de mente, revelar información sobre el pasado y volverse invisible. Puede usarlos una vez cada uno por ciclo.",
+      "description": "Tienes un espíritu o panda vinculada mágicamente a ti en lugar de esbirros. Tiene la mejora compañero y dos de los poderes siguientes: manifestarse físicamente, poseer a los débiles de mente, revelar información sobre el pasado y volverse invisible. Puede usarlos una vez cada uno por ciclo.",
       "checkbox1": "Primer poder utilizado",
       "checbox2": "Segundo poder utilizado"
     },
