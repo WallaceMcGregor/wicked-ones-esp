@@ -912,7 +912,7 @@
         "Hint4": "Los PJ poseen buena/mala información.",
         "Hint5": "La facción ya ha sido atacada antes por la mazmorra o les ha pillado desprevenidos.",
         "Hint6": "Los recientes acontecimientos en el entorno han puesto a la facción en busca de problemas.",
-        "Hint7": "DDurante una incursión, añades +1D a tu tirada de botín por cada una de las siguientes circunstancias: El objetivo pertenece a una facción cuyo nivel es igual o superior al de la mazmorra, cada nivel de la facción objetivo por encima del nivel de la mazmorra, cada botín importante que hayas conseguido, cada aventurero eliminado."
+        "Hint7": "Durante una incursión, añades +1D a tu tirada de botín por cada una de las siguientes circunstancias: El objetivo pertenece a una facción cuyo nivel es igual o superior al de la mazmorra, cada nivel de la facción objetivo por encima del nivel de la mazmorra, cada botín importante que hayas conseguido, cada aventurero eliminado."
       },
       "PHASE10": {
         "Name": "Evaluad el plan de incursión",
