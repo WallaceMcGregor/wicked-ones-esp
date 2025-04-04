@@ -531,7 +531,7 @@
       },
 
       "LOCK": {
-        "Name": "Cerradura",
+        "Name": "Portón",
         "Critical": "Todos los aventureros gastan un movimiento cada uno intentando atravesar el portón. Después van por otro lado, salvo que no tengan otra opción.",
         "Success": "Un aventurero gasta un movimiento intentando atravesar el portón. Después van por otro lado, salvo que no tengan otra opción.",
         "Mixed": "Van por otro lado, salvo que no tengan otra opción.",
@@ -557,7 +557,7 @@
       },
 
       "RESISTDEATH": {
-        "Mixed": "la consecuencia reduce su gravedad un nivel, pero sigue siendo <strong>tremendamente grave</strong>. Tal vez te saquen de la escena, se active un reloj indicando el tiempo que te queda antes de desangrarte o que pierdas una extremidad.",
+        "Mixed": "La consecuencia reduce su gravedad un nivel, pero sigue siendo <strong>tremendamente grave</strong>. Tal vez te saquen de la escena, se active un reloj indicando el tiempo que te queda antes de desangrarte o que pierdas una extremidad.",
         "Failure": "<strong>Te mueres</strong>. Si tienes corazones oscuros, ¡es el momento de aprovechar tu !<strong>golpe de gracia</strong>!"
       },
 
